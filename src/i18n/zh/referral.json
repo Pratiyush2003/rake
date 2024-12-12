@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "推荐系统",
+
+  "Overview_": "总况",
+  "Comission_": "佣金",
+  "Referred_users_": "推荐用户",
+  "Referred_links_": "推荐链接",
+
+  "We_are_excited_": "我们很高兴您有兴趣成为 Rake.com 合作伙伴。欢迎来到我们的推荐系统。",
+  "Rake_com_offers_": "Rake.com 为用户提供联盟计划。推荐我们的赌场并赚钱！对于每个注册、玩和享受 Rake.com 的用户，您将根据他们的活动获得会员佣金。通过创建推荐活动开始赚钱：",
+  "Referral_campaign_": "推荐活动",
+  "Rake_referral_link_": "Rake推荐链接",
+  "Rake_referral_code_": "Rake推荐代码",
+  "Revenue_model_": "收入模式",
+  "All_of_our_games_": "我们所有的游戏都有不同的赔率。\n佣金由以下公式得出：",
+  "Casino_": "赌场",
+  "Casino_formula_": "赔率为十进制 * 下注 * 佣金率 / 2",
+  "All_sports_bets_": "所有体育投注都以3%的理论赔率进行。\n佣金由以下公式得出：",
+  "Sportsbook_": "体育博彩",
+  "Sportsbook_formula_": "（0.03 * 下注 / 2） * 佣金率",
+
+  "Available_": "Available",
+  "Commission_": "Commission",
+  "Withdrawn_": "Withdrawn",
+  "Withdraw_all_": "Withdraw all",
+
+  "Username_": "Username",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "创造",
+  "placeholder_input_referral_code_": "创建您的推荐代码...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "隶属关系代码无效"
+}

@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "Système de parrainage",
+
+  "Overview_": "Aperçu",
+  "Comission_": "Commission",
+  "Referred_users_": "Utilisateurs parrainés",
+  "Referred_links_": "Liens référencés",
+
+  "We_are_excited_": "Nous sommes ravis que vous souhaitiez devenir partenaire de Rake.com. Bienvenue dans notre système de parrainage.",
+  "Rake_com_offers_": "Rake.com propose à ses utilisateurs un programme d'affiliation. Recommandez notre casino et gagnez de l'argent ! Pour chaque utilisateur qui s'inscrit, joue et apprécie Rake.com, vous gagnerez une commission d'affiliation, calculée en fonction de son activité. Commencez à gagner en créant une campagne de parrainage :",
+  "Referral_campaign_": "Campagne de parrainage",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Modèle de revenu",
+  "All_of_our_games_": "Tous nos jeux ont une marge de maison distincte.\nLa commission est calculée en utilisant la formule suivante :",
+  "Casino_": "Casino",
+  "Casino_formula_": "MARGE SOUS FORME DÉCIMALE * MONTANT MISÉ * TAUX DE COMMISSION / 2",
+  "All_sports_bets_": "Tous les paris sportifs sont soumis à une marge de maison théorique de 3 %.\nLa commission est calculée en utilisant la formule suivante :",
+  "Sportsbook_": "Paris sportifs",
+  "Sportsbook_formula_": "(0,03 * MONTANT MISÉ / 2) * TAUX DE COMMISSION",
+
+  "Available_": "Available",
+  "Commission_": "Commission",
+  "Withdrawn_": "Retiré",
+  "Withdraw_all_": "Tout retirer",
+
+  "Username_": "Identifiant",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "Vous n'avez pas de parrainages",
+  "Success_": "Success",
+  "create_referral_code_": "Créer",
+  "placeholder_input_referral_code_": "Générez votre code de parrainage...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "le code d'affiliation est invalide"
+}

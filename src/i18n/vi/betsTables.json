@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "Trò chơi",
+  "User_": "Người dùng",
+  "Time_": "Thời gian",
+  "Bet_amount": "Cược Số lượng",
+  "Multiplier_": "CẤP SỐ NHÂN",
+  "Payout_": "Khoản thanh toán",
+  "Casino_": "Sòng bài",
+  "Sport_": "Thể thao",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "Cược",
+  "Placed_by": "Đặt bởi",
+  "On_date_at_time": "vào ngày {{ date }} lúc {{ time }} chiều",
+  "Winner_": "Người thắng",
+  "Total_Odds": "Tổng tỷ lệ cược",
+  "Total_Bet": "Tổng cược",
+  "Est_Payout": "Thành lập Trả hoa hồng",
+  "Play_game": "{{ game }} MÈO",
+  "Hidden_": "Ẩn"
+}

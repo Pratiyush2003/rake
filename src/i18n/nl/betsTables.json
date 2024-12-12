@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "GAME",
+  "User_": "USER",
+  "Time_": "TIME",
+  "Bet_amount": "BET AMOUNT",
+  "Multiplier_": "VERMENIGVULDIGER\n",
+  "Payout_": "UITBETALING\n",
+  "Casino_": "Casino",
+  "Sport_": "Sport",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "Inzet",
+  "Placed_by": "Geplaatst door",
+  "On_date_at_time": "op {{ date }} om {{ time }} uur",
+  "Winner_": "Winnaar",
+  "Total_Odds": "Totaal aantal kansen",
+  "Total_Bet": "Totale inzet",
+  "Est_Payout": "Ong. Uitbetaling",
+  "Play_game": "{{ game }} SPELEN",
+  "Hidden_": "Verborgen"
+}

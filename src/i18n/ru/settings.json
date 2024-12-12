@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Настройки",
+
+  "General_": "Общие",
+  "Security_": "Безопасность",
+  "Preferences_": "Настройки",
+  "Sessions_": "Сеансы",
+  "Black_list_": "Черный список",
+
+  "General_title_": "Мой аккаунт",
+  "General_username_": "Имя пользователя",
+  "General_login_": "Логин",
+  "General_email_": "E-mail",
+
+  "Password_": "Пароль",
+  "SAVE_": "СОХРАНИТЬ",
+  "Old_Password": "Старый пароль",
+  "New_Password": "Новый пароль",
+  "Confirm_New_Password": "Подтвердите новый пароль",
+
+  "Two_Factor_": "2-факторное подтверждение",
+  "To_keep_your_account_extra_secure_": "Чтобы обеспечить дополнительную безопасность вашей учетной записи, оставьте двухфакторную аутентификацию включенной.",
+  "Open_the_authenticator_": "Откройте аутентификатор, коснитесь значка \"+\" и скопируйте этот код в приложение для аутентификации.",
+  "Or_scan_the_QR_": "Или отсканируйте QR-код с помощью телефона или планшета.",
+  "Two_Factor_Code_": "Двухфакторный код",
+  "Enable_": "ВКЛЮЧИТЬ",
+  "Disable_": "ВЫКЛЮЧИТЬ",
+  "Dont_let_anyone_see_this_": "Не позволяйте никому видеть это! Сохраните секретный код.",
+  "You_may_need_it_if_": "Он может вам понадобиться, если вы поменяли или потеряли свой телефон.",
+
+  "Privacy_title_": "Конфиденциальность",
+  "Privacy_description_": "Конфиденциальность пользователей — одна из самых важных проблем Rake.com! Эти настройки защитят вас от негативного внешнего воздействия.",
+  "Privacy_statistic_title_": "Скрыть всю свою статистику",
+  "Privacy_statistic_description_": "Другие пользователи не смогут просматривать статистику ваших выигрышей, проигрышей и ставок.",
+  "Privacy_button_": "СОХРАНИТЬ",
+
+  "Sessions_title_": "Сеансы",
+  "Sessions_is_empty": "Сеансы не найдены",
+  "Sessions_table_browser_": "БРАУЗЕР",
+  "Sessions_table_location_": "МЕСТОНАХОЖДЕНИЕ",
+  "Sessions_table_ip_address_": "IP АДРЕС",
+  "Sessions_table_last_used_": "ПОСЛЕДНЯЯ АКТИВНОСТЬ",
+  "Sessions_table_action_": "ДЕЙСТВИЕ",
+  "Sessions_table_close_": "Закрыть",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Черный список",
+  "Blacklist_is_empty": "Черный список пуст",
+  "Remove_from_the_Black_List": "Удалить из черного списка",
+  "Remove_": "Удалить",
+  "USER_": "ПОЛЬЗОВАТЕЛЬ",
+  "ACTION_": "ДЕЙСТВИЕ"
+}

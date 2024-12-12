@@ -1,0 +1,5 @@
+export { default as cross } from './cross.svg'
+export { default as infinite } from './infinite.svg'
+export { default as percentage } from './percentage.svg'
+export { default as rollover } from './rollover.svg'
+export { default as usdCoin } from './usdCoin.svg'

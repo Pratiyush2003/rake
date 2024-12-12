@@ -1,0 +1,54 @@
+{
+  "Setting_title_": "Instellingen",
+
+  "General_": "Algemeen",
+  "Security_": "Veiligheid",
+  "Preferences_": "Voorkeuren",
+  "Sessions_": "Sessies",
+  "Black_list_": "Blacklist",
+
+  "General_title_": "Mijn account",
+  "General_username_": "Gebruikersnaam",
+  "General_login_": "Inloggen",
+  "General_email_": "Email",
+
+  "Password_": "Wachtwoord",
+  "SAVE_": "Opslaan",
+  "Old_Password": "Oud wachtwoord",
+  "New_Password": "Nieuw wachtwoord",
+  "Confirm_New_Password": "Bevestig het nieuwe wachtwoord",
+
+  "Two_Factor_": "Twee-factor",
+  "To_keep_your_account_extra_secure_": "Om uw account extra veilig te houden, laat je een twee-factorauthenticatie ingeschakeld.",
+  "Open_the_authenticator_": "Open de authenticator, tik op het pictogram \"+\" en kopieer deze code naar je authenticator-app",
+  "Or_scan_the_QR_": "Of scan de QR-code met je telefoon of tablet",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Inschakelen",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Laat niemand dit zien! Bewaar de geheime code.",
+  "You_may_need_it_if_": "U heeft deze mogelijk nodig als u uw telefoon wijzigt of kwijtraakt.",
+
+  "Privacy_title_": "Privacy",
+  "Privacy_description_": "Privacy van gebruikers is een van de belangrijkste kwesties van Rake.com! Deze instellingen beschermen je tegen negatieve invloeden van buitenaf.",
+  "Privacy_statistic_title_": "Verberg al je statistieken",
+  "Privacy_statistic_description_": "Andere gebruikers kunnen je winsten, verliezen en weddenschappen niet bekijken",
+  "Privacy_button_": "Opslaan",
+
+  "Sessions_title_": "Sessies",
+  "Sessions_is_empty": "Sessies zijn leeg",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Blacklist",
+  "Blacklist_is_empty": "Zwarte lijst is leeg",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION",
+  "KYC_Verify_": "KYC-verifisering"
+}

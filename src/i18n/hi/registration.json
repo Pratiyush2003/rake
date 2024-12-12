@@ -1,0 +1,22 @@
+{
+  "Registration_": "पंजीकरण",
+  "Username_": "उपयोकर्ता नाम",
+  "Password_": "पासवर्ड",
+  "Date_of_birth_": "जन्म की तारीख",
+  "Email_": "Email",
+  "Code_optional_": "Code (optional)",
+  "Cancel_": "रद्द करें",
+  "Confirm_": "CONFIRM",
+  "I_read_the_terms_conditions_and_privacy_policy_": "I read the <1>terms & conditions</1> and <3> privacy policy</3>, and I accept it*",
+  "Already_have_an_account": "Already have an account? <1>Login</1>",
+
+  "Please_specify_the_Username_": "Please specify the Username",
+  "Next_": "Next",
+  "ExampleName_": "ExampleName",
+
+  "Please_enter_the_date_of_birth_": "Please, enter the date of birth",
+
+  "Username_tooltip_": "अक्षर, अंक और विशेष वर्ण, जैसे '-', '_', '.' की अनुमति है।",
+  "Password_tooltip_": "- 8 से कम वर्ण नहीं होने चाहिए; \n - कम से कम एक अपरकेस और एक लोवरकेस अक्षर शामिल करें; \n - एक अंक (0123456789) और एक खास वर्ण (!@#$%^&*_+=) शामिल करें।",
+  "Affiliation_code_is_invalid_": "संबद्धता कोड अमान्य है"
+}

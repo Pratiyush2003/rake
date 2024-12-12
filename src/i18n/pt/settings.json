@@ -1,0 +1,54 @@
+{
+  "Setting_title_": "Definições",
+
+  "General_": "Geral",
+  "Security_": "Segurança",
+  "Preferences_": "Preferências",
+  "Sessions_": "Sessões",
+  "Black_list_": "Lista negra",
+
+  "General_title_": "A minha conta",
+  "General_username_": "Nome de utilizador",
+  "General_login_": "INICIAR SESSÃO",
+  "General_email_": "Email",
+
+  "Password_": "Palavra-passe",
+  "SAVE_": "Guardar",
+  "Old_Password": "Palavra-passe antiga",
+  "New_Password": "Palavra-passe nova",
+  "Confirm_New_Password": "Confirme a nova palavra-passe",
+
+  "Two_Factor_": "Dois fatores",
+  "To_keep_your_account_extra_secure_": "Para manter a sua conta mais segura, ative uma autenticação de dois fatores.",
+  "Open_the_authenticator_": "Abra o autenticador, toque no ícone \"+\" e copie este código para a sua aplicação de autenticação",
+  "Or_scan_the_QR_": "Ou digitalize o código QR utilizando o seu telemóvel ou tablet",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Ativar",
+  "Disable_": "DESABILITAR",
+  "Dont_let_anyone_see_this_": "Não deixe ninguém ver isto! Guarde o código secreto.",
+  "You_may_need_it_if_": "Pode precisar dele se mudar ou perder o seu telefone.",
+
+  "Privacy_title_": "Privacidade",
+  "Privacy_description_": "A privacidade do utilizador é uma das questões mais importantes do Rake.com! Estas definições irão protegê-lo(a) de influências externas negativas.",
+  "Privacy_statistic_title_": "Oculte todas as suas estatísticas",
+  "Privacy_statistic_description_": "Outros utilizadores não poderão ver os seus ganhos, perdas e estatísticas de apostas",
+  "Privacy_button_": "Guardar",
+
+  "Sessions_title_": "Sessões",
+  "Sessions_is_empty": "As sessões estão vazias",
+  "Sessions_table_browser_": "Navegador",
+  "Sessions_table_location_": "Localização",
+  "Sessions_table_ip_address_": "Endereço IP",
+  "Sessions_table_last_used_": "Usado por último",
+  "Sessions_table_action_": "Ação",
+  "Sessions_table_close_": "Fechar",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Lista negra",
+  "Blacklist_is_empty": "A lista negra está vazia",
+  "Remove_from_the_Black_List": "Remover da Lista Negra",
+  "Remove_": "Remover",
+  "USER_": "USUÁRIO",
+  "ACTION_": "AÇÃO",
+  "KYC_Verify_": "Verificação KYC"
+}

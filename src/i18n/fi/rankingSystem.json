@@ -1,0 +1,14 @@
+{
+  "Ranking_system": "Rankingjärjestelmä",
+  "Progress_": "Edistyminen",
+  "Rewards_": "Palkinnot",
+  "Your_rank_progress": "Sijoituksesi kehittyminen",
+  "Your_wagered_amount": "Panostamasi summa",
+  "Your_progress_in": "Edistymisesi on summa, joka kertyy vedonlyönnistäsi\nsekä kasinollamme että urheiluvedonlyönnissä.\nTasoilla nouseminen oikeuttaa sinut suurempiin palkintoihin ja etuihin.",
+  "All_bets": "Kaikki vedot, jotka ratkaistaan urheiluvedonlyönnissä, palauttavat 3x\n(kolme kertaa) nopeamman etenemisnopeuden. Mitätöityjä vetoja ei oteta huomioon.",
+  "Rank_tier": "Sijoitustaso",
+  "Wager_amount": "Panoksen\nmäärä",
+  "Deposit_bonus": "Talletusbonus",
+  "Withdrawal_commission": "Nostopalkkio",
+  "In_order_to_move": "In order to move to the next level and get the\nnext rank, you need to have a wagered amount\nmore than indicated in the \"Wager Amount\"."
+}

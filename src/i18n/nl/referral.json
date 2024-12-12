@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "Verwijzingssysteem",
+
+  "Overview_": "Overzicht",
+  "Comission_": "Commissie",
+  "Referred_users_": "Doorverwezen gebruikers",
+  "Referred_links_": "Tautan yang dirujuk",
+
+  "We_are_excited_": "We zijn blij dat je geïnteresseerd bent om partner van Rake.com te worden. Welkom bij ons verwijzingssysteem.",
+  "Rake_com_offers_": "Rake.com biedt haar gebruikers een partnerprogramma. Beveel ons casino aan en verdien geld! Voor elke gebruiker die zich aanmeldt, speelt en geniet van Rake.com, verdien je een aangesloten commissie op basis van hun activiteit. Begin te verdienen door een verwijzingscampagne te maken:",
+  "Referral_campaign_": "Verwijzingscampagne",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Omzetmodel",
+  "All_of_our_games_": "Al onze spellen hebben een ander huisvoordeel.\nDe commissie wordt afgeleid door de volgende formule:",
+  "Casino_": "Casino",
+  "Casino_formula_": "VOORDEEL ALS DECIMAAL * INGEZET * COMMISSIETARIEF / 2",
+  "All_sports_bets_": "Alle sportweddenschappen worden toegepast tegen een theoretisch huisvoordeel van 3%.\nDe commissie wordt afgeleid door de volgende formule:",
+  "Sportsbook_": "Sportweddenschap",
+  "Sportsbook_formula_": "(0,03 * INGEZET / 2) * COMMISSIETARIEF",
+
+  "Available_": "Beschikbaar",
+  "Commission_": "commissie",
+  "Withdrawn_": "Opgenomen",
+  "Withdraw_all_": "Alles opnemen",
+
+  "Username_": "Gebruikersnaam",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "Creëren",
+  "placeholder_input_referral_code_": "Maak uw verwijzingscode aan",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "de aangesloten code is ongeldig"
+}

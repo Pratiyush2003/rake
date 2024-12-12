@@ -1,0 +1,14 @@
+.player-line {
+  background: linear-gradient(
+    90deg,
+    rgb(235, 192, 102) 0%,
+    rgb(235, 192, 102) 68.4001%,
+    rgba(203, 215, 255, 0.1) 68.4001%,
+    rgba(203, 215, 255, 0.1) 100%
+  );
+}
+@media screen and (max-width: 768px) {
+  .player-modal {
+    width: calc(100vw - 14px);
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Setting_title_": "Ayarlar",
+
+  "General_": "Genel",
+  "Security_": "Güvenlik",
+  "Preferences_": "Tercihler",
+  "Sessions_": "Oturumlar",
+  "Black_list_": "Kara liste",
+
+  "General_title_": "Hesabım",
+  "General_username_": "Kullanıcı adı",
+  "General_login_": "GİRİŞ",
+  "General_email_": "Email",
+
+  "Password_": "Parola",
+  "SAVE_": "Kaydet",
+  "Old_Password": "Eski parola",
+  "New_Password": "Yeni parola",
+  "Confirm_New_Password": "Yeni parolayı onayla",
+
+  "Two_Factor_": "İki faktörlü",
+  "To_keep_your_account_extra_secure_": "Hesabınızı daha da güvende tutmak için iki faktörlü kimlik doğrulamayı etkinleştirin.",
+  "Open_the_authenticator_": "Kimlik doğrulayıcıyı açın, \"+\" simgesine dokunun ve bu kodu kimlik doğrulayıcı uygulamanıza kopyalayın.",
+  "Or_scan_the_QR_": "Ya da telefonunuzu veya tabletinizi kullanarak QR kodunu tarayın",
+  "Two_Factor_Code_": "İki Faktörlü Kod",
+  "Enable_": "Etkinleştir",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Kimsenin bunu görmesine izin vermeyin! Gizli anahtarı saklayın.",
+  "You_may_need_it_if_": "Telefonunuzu değiştirirseniz veya kaybederseniz buna ihtiyacınız olabilir.",
+
+  "Privacy_title_": "Gizlilik",
+  "Privacy_description_": "Kullanıcı gizliliği Rake.com'un en önemli konularından biridir! Bu ayarlar sizi olumsuz dış etkilerden koruyacaktır.",
+  "Privacy_statistic_title_": "Tüm istatistiklerinizi gizleyin",
+  "Privacy_statistic_description_": "Diğer kullanıcılar kazançlarınızı, kayıplarınızı ve bahis istatistiklerinizi görüntüleyemez",
+  "Privacy_button_": "Kaydet",
+
+  "Sessions_title_": "Oturumlar",
+  "Sessions_is_empty": "Oturumlar boş",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Kara liste",
+  "Blacklist_is_empty": "Kara liste boş",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION",
+  "KYC_Verify_": "KYC Doğrulaması"
+}

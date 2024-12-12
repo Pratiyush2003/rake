@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "ゲーム",
+  "User_": "ユーザー",
+  "Time_": "時間",
+  "Bet_amount": "賭け金",
+  "Multiplier_": "マルチプレイヤー",
+  "Payout_": "受取金",
+  "Casino_": "カジノ",
+  "Sport_": "スポーツ",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "ベット",
+  "Placed_by": "配置先",
+  "On_date_at_time": "on {{ date }} at {{ time }}",
+  "Winner_": "勝者",
+  "Total_Odds": "合計オッズ",
+  "Total_Bet": "合計ベット",
+  "Est_Payout": "予定支払い",
+  "Play_game": "{{ game }} をプレイする",
+  "Hidden_": "非表示"
+}

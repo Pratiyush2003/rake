@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "Suosittelujärjestelmä",
+
+  "Overview_": "Yleiskatsaus",
+  "Comission_": "provisio",
+  "Referred_users_": "Kutsutut käyttäjät",
+  "Referred_links_": "Viitatut linkit",
+
+  "We_are_excited_": "Olemme innoissamme siitä, että olet kiinnostunut ryhtymään Rake.comin kumppaniksi. Tervetuloa suosittelujärjestelmäämme.",
+  "Rake_com_offers_": "Rake.com tarjoaa käyttäjilleen kumppanuusohjelman. Suosittele kasinoamme ja ansaitse rahaa! Jokaisesta käyttäjästä, joka rekisteröityy, pelaa ja nauttii Rake.com-sivustosta, ansaitset kumppanuuspalkkion heidän toimintansa perusteella. Aloita ansaitseminen luomalla suosittelukampanja:",
+  "Referral_campaign_": "Suosittelukampanja",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Ansaintamalli",
+  "All_of_our_games_": "Kaikissa peleissä on erilainen talon etu.\nProvisio lasketaan seuraavalla kaavalla:",
+  "Casino_": "Kasino",
+  "Casino_formula_": "ETU DESIMAALILUKUNA * PANOSTETTU * PROVISIOPROSENTTI / 2",
+  "All_sports_bets_": "Kaikki urheiluvedoissa sovelletaan 3 %:n teoreettista talon etua.\nProvisio lasketaan seuraavalla kaavalla:",
+  "Sportsbook_": "Urheiluvedonlyönti",
+  "Sportsbook_formula_": "(0,03 * PANOSTETTU / 2) * PROVISIOPROSENTTI",
+
+  "Available_": "Saatavilla oleva",
+  "Commission_": "provisio",
+  "Withdrawn_": "Nostettu",
+  "Withdraw_all_": "Nosta kaikki",
+
+  "Username_": "Käyttäjänimi",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "Sinulla ei ole kutsuja",
+  "Success_": "Success",
+  "create_referral_code_": "Luoda",
+  "placeholder_input_referral_code_": "Luo viitekoodisi...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "jäsenkoodi on virheellinen"
+}

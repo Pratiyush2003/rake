@@ -1,0 +1,9 @@
+{
+  "Version_": "Versão {{version}}",
+  "Anti-Money_Laundering": "Prevenção à lavagem de dinheiro",
+  "KYC_and_Privacy_Policy": "Política de privacidade e KYC",
+  "Responsible_Gaming": "Jogo responsável",
+  "Terms_title_": "Termos e Condições",
+  "Month_year": "{{ date, monthYear }}",
+  "Download_": "Baixar"
+}

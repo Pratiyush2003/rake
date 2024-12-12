@@ -1,0 +1,19 @@
+.up-arrow-main span:nth-child(3) {
+  display: none;
+}
+.up-arrow-main .up-arrow {
+  rotate: 0deg;
+  height: 20px;
+  transition: all 0.2s ease-in-out;
+}
+.up-arrow-main .down-arrow {
+  rotate: 180deg;
+  height: 20px;
+  transition: all 0.2s ease-in-out;
+}
+.up-arrow-main:hover div div img {
+  opacity: 1;
+}
+.aside-main::-webkit-scrollbar {
+  width: 0 !important;
+}

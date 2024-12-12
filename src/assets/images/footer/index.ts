@@ -1,0 +1,13 @@
+export { default as bitCoin } from './bit_coin.svg';
+export { default as bnb } from './bnb.svg';
+export { default as dogeCoin } from './doge_coin.svg';
+export { default as ethereum } from './ethereum.svg';
+export { default as liteCoin } from './lite_coin.svg';
+export { default as tether } from './tether.svg';
+export { default as tron } from './tron.svg';
+export { default as usdCoin } from './usd_coin.svg';
+export { default as knockout } from './knockout.svg';
+export { default as responsibleGambling } from './responsible_gambling.svg';
+export { default as topRank } from './top_rank.svg';
+export { default as dazn } from './dazn.svg';
+export { default as rakeLogo } from './rake-logo.svg';

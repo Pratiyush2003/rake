@@ -1,0 +1,15 @@
+{
+  "Registration_": "पंजीकरण",
+  "Restoring_access_": "Restoring access",
+  "A-six-digit_verification_code": "A six-digit verification code was sent to \n",
+  "Enter_below_": ". Please, enter it below",
+  "Didnt_receive_": "Didn't receive the code? <1>Resend</1>",
+  "Cancel_": "रद्द करें",
+  "Confirm_": "Confirm",
+  "Continue_": "Continue",
+  "Already_have_an_account_": "Already have an account? <1>Login</1>",
+  "Resend_wrong_": "Something went wrong",
+
+  "Two_factor_title_": "Google authenticate",
+  "Two_factor_description_": "Open the Google authenticator app. \n Please, enter the 6 digit code:"
+}

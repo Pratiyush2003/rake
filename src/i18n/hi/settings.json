@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "सेटिंग",
+
+  "General_": "जनरल",
+  "Security_": "सुरक्षा",
+  "Preferences_": "प्राथमिकताएँ",
+  "Sessions_": "सेशन",
+  "Black_list_": "ब्लैकलिस्ट",
+
+  "General_title_": "मेरा अकाउंट",
+  "General_username_": "उपयोकर्ता नाम",
+  "General_login_": "लॉग इन करें",
+  "General_email_": "ईमेल",
+
+  "Password_": "पासवर्ड",
+  "SAVE_": "सेव करें",
+  "Old_Password": "पुराना पासवर्ड",
+  "New_Password": "नया पासवर्ड",
+  "Confirm_New_Password": "नए पासवर्ड की पुष्टि करें",
+
+  "Two_Factor_": "टू फैक्टर",
+  "To_keep_your_account_extra_secure_": "अपने अकाउंट को ज़्यादा सुरक्षित रखने के लिए टू फ़ैक्टर ऑथेंटिकेशन सक्षम करें।",
+  "Open_the_authenticator_": "ऑथेंटिकेटर खोलें, \"+\" आइकन पर टैप करें और इस कोड को अपने ऑथेंटिकेटर ऐप में कॉपी करें",
+  "Or_scan_the_QR_": "या अपने फ़ोन या टैबलेट का इस्तेमाल करके क्यूआर कोड स्कैन करें",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "सक्षम करें",
+  "Disable_": "अक्षम करना",
+  "Dont_let_anyone_see_this_": "किसी को यह मत देखने दें! गुप्त कोड रखें।",
+  "You_may_need_it_if_": "अगर आप अपना फोन बदलते हैं या खो देते हैं, तो आपको इसकी ज़रूरत पड़ सकती है।",
+
+  "Privacy_title_": "निजता",
+  "Privacy_description_": "यूज़र की निजता Rake.com के सबसे अहम मुद्दों में से एक है! ये सेटिंग आपको नकारात्मक बाहरी प्रभावों से बचाएँगी।",
+  "Privacy_statistic_title_": "अपने सभी आँकड़े छिपाएँ",
+  "Privacy_statistic_description_": "अन्य यूज़र आपकी जीत, हार और दाँव के आँकड़े नहीं देख पाएँगे",
+  "Privacy_button_": "सेव करें",
+
+  "Sessions_title_": "सेशन",
+  "Sessions_is_empty": "सेशन खाली है",
+  "Sessions_table_browser_": "ब्राउज़र",
+  "Sessions_table_location_": "जगह",
+  "Sessions_table_ip_address_": "आईपी \u200B\u200Bपता",
+  "Sessions_table_last_used_": "अंतिम समय प्रयोग हुआ",
+  "Sessions_table_action_": "कार्य",
+  "Sessions_table_close_": "बंद करना",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "ब्लैकलिस्ट",
+  "Blacklist_is_empty": "ब्लैकलिस्ट खाली है",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "उपयोगकर्ता",
+  "ACTION_": "कार्य"
+}

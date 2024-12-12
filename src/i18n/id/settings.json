@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Pengaturan",
+
+  "General_": "Umum",
+  "Security_": "Keamanan",
+  "Preferences_": "Preferensi",
+  "Sessions_": "Sesi",
+  "Black_list_": "Daftar hitam",
+
+  "General_title_": "Akun saya",
+  "General_username_": "Nama Pengguna",
+  "General_login_": "Login",
+  "General_email_": "Email",
+
+  "Password_": "Kata Sandi",
+  "SAVE_": "Simpan",
+  "Old_Password": "Kata sandi lama",
+  "New_Password": "Kata sandi baru",
+  "Confirm_New_Password": "Konfirmasikan kata sandi baru",
+
+  "Two_Factor_": "Dua faktor",
+  "To_keep_your_account_extra_secure_": "Agar akun Anda lebih aman, aktifkan autentikasi dua faktor.",
+  "Open_the_authenticator_": "Buka autentikator, ketuk ikon \"+\" dan salin kode ini ke aplikasi autentikator Anda",
+  "Or_scan_the_QR_": "Atau pindai kode QR menggunakan ponsel atau tablet Anda",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Aktifkan",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Jangan sampai ada yang melihatnya! Simpan kode rahasia ini.",
+  "You_may_need_it_if_": "Anda mungkin membutuhkannya jika mengubah atau kehilangan ponsel Anda.",
+
+  "Privacy_title_": "Privasi",
+  "Privacy_description_": "Privasi pengguna adalah salah satu persoalan paling penting dari Rake.com! Pengaturan ini akan melindungi Anda dari pengaruh eksternal negatif.",
+  "Privacy_statistic_title_": "Sembunyikan semua statistik Anda",
+  "Privacy_statistic_description_": "Pengguna lain tidak akan dapat melihat statistik kemenangan, kekalahan, dan pertaruhan Anda",
+  "Privacy_button_": "Simpan",
+
+  "Sessions_title_": "Sesi",
+  "Sessions_is_empty": "Sesi masih kosong",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Daftar hitam",
+  "Blacklist_is_empty": "Daftar hitam masih kosong",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

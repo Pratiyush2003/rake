@@ -1,0 +1,10 @@
+export { default as ServiceGoogleIcon } from './ServiceGoogleIcon.svg';
+export { default as EmailIcon } from './EmailIcon.svg';
+export { default as FacebookIcon } from './FacebookIcon.svg';
+export { default as TwitterIcon } from './TwitterIcon.svg';
+export { default as closeIcon } from './closeIcon.svg';
+export { default as CheckIcon } from './CheckIcon.svg';
+export { default as backButtonIcon } from './backButtonIcon.svg';
+export { default as eyeIconIcon } from './eyeIcon.svg';
+export { default as eyeCrossedIcon } from './eyeCrossedIcon.svg';
+export { default as QrCode } from './qrCode.svg';

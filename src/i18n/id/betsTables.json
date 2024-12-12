@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "GAME",
+  "User_": "PENGGUNA",
+  "Time_": "WAKTU",
+  "Bet_amount": "TARUHAN NOMINAL",
+  "Multiplier_": "PENGALI",
+  "Payout_": "BAYARAN",
+  "Casino_": "Kasino",
+  "Sport_": "Olahraga",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "TARUHAN",
+  "Placed_by": "Dipasang oleh",
+  "On_date_at_time": "pada {{ date }} pukul {{ time }}",
+  "Winner_": "Winner",
+  "Total_Odds": "Total Odds",
+  "Total_Bet": "Total Taruhan",
+  "Est_Payout": "Est. Bayaran",
+  "Play_game": "MAINKAN {{ game }}",
+  "Hidden_": "Tersembunyi"
+}

@@ -1,0 +1,28 @@
+{
+  "Date_of_birth_": "Дата рождения",
+
+  "Day_": "День",
+  "Month_": "Месяц",
+  "Year_": "Год",
+
+  "January_": "Январь",
+  "February_": "Февраль",
+  "March_": "Март",
+  "April_": "Апрель",
+  "May_": "Май",
+  "June_": "Июнь",
+  "July_": "Июль",
+  "August_": "Август",
+  "September_": "Сентябрь",
+  "October_": "Октябрь",
+  "November_": "Ноябрь",
+  "December_": "Декабрь",
+
+  "Monday_": "Пн",
+  "Tuesday_": "Вт",
+  "Wednesday_": "Ср",
+  "Thursday_": "Чт",
+  "Friday_": "Пт",
+  "Saturday_": "Сб",
+  "Sunday_": "Вс"
+}

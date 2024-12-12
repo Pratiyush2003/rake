@@ -1,0 +1,13 @@
+{
+  "Login_": "INICIAR SESSÃO",
+  "Username_": "Email",
+  "Password_": "Palavra-passe",
+  "Continue_social_": "Ou continue com",
+  "Cancel_": "CANCELAR",
+  "Not_account_": "Não tem uma conta? <1>Registe-se</1>",
+  "Forgot_password_": "Esqueceu-se da sua palavra-passe? <1>Recupere o acesso</1>",
+  "Error_": "O nome de utilizador e/ou palavra-passe estão incorretos. \n Por favor verifique e tente novamente.",
+
+  "Username_tooltip_": "São permitidas letras, dígitos e caracteres especiais, como ‘-’, ’’ e ‘.’.",
+  "Password_tooltip": "- Deve ter pelo menos 8 caracteres; \n - Deve incluir pelo menos uma letra maiúscula e uma minúscula; \n - Deve incluir um dígito (0123456789) e um caractere especial (!@#$%^&*_+=)."
+}

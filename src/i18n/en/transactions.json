@@ -1,0 +1,26 @@
+{
+  "Transactions_title_": "Transactions",
+
+  "Tab_deposits_": "Deposits",
+  "Tab_withdrawals_": "Withdrawals",
+  "Tab_bets_": "Bets",
+  "Tab_awards_": "Awards",
+
+  "Table_amount_": "amount",
+  "Table_type_": "type",
+  "Table_from_": "from",
+  "Table_to_": "to",
+  "Table_date_": "date",
+  "Table_status_": "status",
+  "Table_game_": "game",
+  "Table_bet_": "bet",
+  "Table_multiplier_": "multiplier/\ncoef",
+  "Table_payout_": "payout",
+  "No_data_": "no transactions",
+  "View_blockchain_scan_": "View on Blockchain Scan",
+  "canceled": "Canceled",
+  "in_processing": "In processing",
+  "done": "Done",
+  "pending_approval": "Pending approval",
+  "transactions_is_empty": "Transactions is empty"
+}

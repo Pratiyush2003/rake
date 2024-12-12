@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "Hệ thống tham chiếu",
+
+  "Overview_": "Tổng quan",
+  "Comission_": "hoa hồng",
+  "Referred_users_": "Người dùng được giới thiệu",
+  "Referred_links_": "Liên kết được giới thiệu",
+
+  "We_are_excited_": "Chúng tôi rất vui mừng khi bạn quan tâm đến việc trở thành đối tác của Rake.com. Chào mừng bạn đến với hệ thống giới thiệu của chúng tôi.",
+  "Rake_com_offers_": "Rake.com cung cấp cho người dùng một chương trình liên kết. Giới thiệu sòng bạc của chúng tôi và kiếm tiền! Đối với mỗi người dùng đăng ký, chơi và thích Rake.com, bạn sẽ kiếm được một khoản hoa hồng liên kết khi họ hoạt động. Bắt đầu kiếm tiền bằng cách tạo chiến dịch giới thiệu:",
+  "Referral_campaign_": "Chiến dịch giới thiệu",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Mô hình doanh thu",
+  "All_of_our_games_": "Tất cả các trò chơi của chúng tôi đều có lợi thế nhà cái khác nhau.\nHoa hồng được lấy theo công thức sau:",
+  "Casino_": "Sòng bài",
+  "Casino_formula_": "HỆ SỐ THẬP PHÂN * TIỀN ĐẶT CƯỢC * TỶ LỆ HOA HỒNG/2",
+  "All_sports_bets_": "Tất cả các cược thể thao được áp dụng với tỷ lệ lợi nhuận nhà cái theo lý thuyết là 3%. Hoa hồng được lấy theo công thức sau:",
+  "Sportsbook_": "Cá cược thể thao",
+  "Sportsbook_formula_": "(0,03 * TIỀN ĐẶT CƯỢC/2) * TỶ LỆ HOA HỒNG",
+
+  "Available_": "Có hiệu lực",
+  "Commission_": "hoa hồng",
+  "Withdrawn_": "Rút tiền",
+  "Withdraw_all_": "Rút toàn bộ tiền",
+
+  "Username_": "Tên người dùng",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "Tạo nên",
+  "placeholder_input_referral_code_": "Tạo mã giới thiệu của bạn",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "mã liên kết không hợp lệ"
+}

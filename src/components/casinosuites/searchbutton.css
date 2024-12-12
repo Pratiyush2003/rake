@@ -1,0 +1,7 @@
+.filete:hover,
+.filete.active {
+    filter: brightness(0) invert(1);
+}
+.decoration-none{
+    text-decoration: none;
+}

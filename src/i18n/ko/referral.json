@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "추천인 시스템",
+
+  "Overview_": "전체보기",
+  "Comission_": "커미션",
+  "Referred_users_": "추천인 사용자",
+  "Referred_links_": "추천 링크",
+
+  "We_are_excited_": "Rake.com 파트너에 관심을 가져 주셔서 감사합니다. 추천인 시스템에 오신 것을 환영합니다.",
+  "Rake_com_offers_": "Rake.com은 사용자에게 제휴 프로그램을 제공합니다. 저희 카지노를 추천하여 추가 수입을 만드세요! Rake.com에 가입하고 플레이하고 즐기는 모든 사용자들은 활동에 따라 제휴 커미션을 받게 됩니다. 추천인 캠페인을 생성하여 수입을 올리세요!",
+  "Referral_campaign_": "추천인 캠페인",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "수익 모델",
+  "All_of_our_games_": "저희가 제공하는 모든 게임은 각자 다른 하우스 엣지를 제공합니다.\n커미션은 다음 공식에 의해 계산되어 제공됩니다.",
+  "Casino_": "카지노",
+  "Casino_formula_": "하우스 엣지 소수점 형태 * 베팅금 * 커미션 요율/2",
+  "All_sports_bets_": "모든 스포츠 베팅에는 이론적으로 3%의 하우스 엣지가 적용됩니다.\n커미션은 다음 공식에 의해 계산되어 제공됩니다.",
+  "Sportsbook_": "스포츠북",
+  "Sportsbook_formula_": "(0.03 * 베팅금/2) * 커미션 요율",
+
+  "Available_": "이용 가능",
+  "Commission_": "커미션",
+  "Withdrawn_": "출금 완료",
+  "Withdraw_all_": "모두 출금",
+
+  "Username_": "아이디",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "베팅금",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "만들다",
+  "placeholder_input_referral_code_": "추천 코드 만들기",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "소속 코드가 유효하지 않습니다"
+}

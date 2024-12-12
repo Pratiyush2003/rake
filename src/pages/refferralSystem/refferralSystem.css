@@ -1,0 +1,22 @@
+.iframe_main {
+  width: 100%;
+  height: clamp(10rem, 5rem + 20vw, 30rem);
+}
+.iframe_main .iframe_wrap {
+  height: 100%;
+  width: 100%;
+}
+.iframe_main .iframe_wrap .player {
+  height: 100% !important;
+}
+.referral-btn:hover img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(4%) saturate(165%)
+    hue-rotate(148deg) brightness(119%) contrast(100%);
+}
+.referral-btn-active img{
+    filter: brightness(0) saturate(100%) invert(100%) sepia(4%) saturate(165%)
+    hue-rotate(148deg) brightness(119%) contrast(100%) !important;
+}
+.referral-btn img {
+    filter: brightness(0) saturate(100%) invert(67%) sepia(7%) saturate(960%) hue-rotate(167deg) brightness(94%) contrast(89%);
+  }

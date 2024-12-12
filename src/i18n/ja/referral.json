@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "紹介システム",
+
+  "Overview_": "概要",
+  "Comission_": "コミッション",
+  "Referred_users_": "紹介ユーザー",
+  "Referred_links_": "参照リンク",
+
+  "We_are_excited_": "Rake.comのパートナーになることにご興味をお持ちいただけたようで、大変嬉しく思います。紹介システムへようこそ。",
+  "Rake_com_offers_": "Rake.comはユーザーにアフィリエイトプログラムを提供しています。当社のカジノをお勧めしてお金を稼ぎましょう！Rake.comへサインアップし、プレイを楽しむユーザーのすべての活動に応じて、アフィリエイト報酬を獲得することができます。紹介キャンペーンを作成して収入を得ましょう。",
+  "Referral_campaign_": "紹介キャンペーン",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "収益形態",
+  "All_of_our_games_": "当社のゲームどれもハウスエッジが異なります。\nコミッションは、次の式によって導出されます。",
+  "Casino_": "カジノ",
+  "Casino_formula_": "10進数のエッジ * 賭け金 * 手数料率 / 2",
+  "All_sports_bets_": "スポーツベットはすべて、3％の理論的なハウスエッジが適用されます。\nコミッションは、次の式によって導出されます。",
+  "Sportsbook_": "スポーツブック",
+  "Sportsbook_formula_": "(0.03 * 賭け金 / 2 ) * 手数料率",
+
+  "Available_": "利用可能",
+  "Commission_": "手数料",
+  "Withdrawn_": "出金済み",
+  "Withdraw_all_": "全額出金",
+
+  "Username_": "ユーザー名",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "紹介者はありません",
+  "Success_": "Success",
+  "create_referral_code_": "作成する",
+  "placeholder_input_referral_code_": "紹介コードを作成する...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "所属コードが無効です"
+}

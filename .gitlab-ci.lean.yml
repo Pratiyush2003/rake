@@ -1,0 +1,65 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  IMAGE_NAME: "registry.gitlab.com/rakecasino/rake"
+
+build:
+  stage: build
+  image: docker:latest
+  services:
+    - docker:dind
+  variables:
+    DOCKER_DRIVER: overlay2
+  script:
+    - echo "$TOKEN_REGISTRY" | docker login -u "leansetup" --password-stdin "registry.gitlab.com"
+    - >
+      if [ "$CI_COMMIT_BRANCH" == "downstream/develop" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-dev"
+      elif [ "$CI_COMMIT_BRANCH" == "stage" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-stage"
+      elif [ "$CI_COMMIT_BRANCH" == "production" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-production"
+      else
+        echo "Branch not recognized. Skipping build."
+        exit 0
+      fi
+    - docker buildx build --load -t $IMAGE_TAG .
+    - docker push $IMAGE_TAG
+  only:
+    - downstream/develop
+    - stage
+    - production
+
+deploy:
+  stage: deploy
+  image: alpine
+  before_script:
+    - apk add --no-cache openssh-client
+    - mkdir -p ~/.ssh
+    - echo "$PUB_KEY" > ~/.ssh/id_rsa.pub
+    - echo "$PRV_KEY" > ~/.ssh/id_rsa
+    - echo "$SSH_CONFIG" > ~/.ssh/config
+    - echo "$BASTION_SSH" > ~/.ssh/bastion
+    - echo "$MASTER_SSH" > ~/.ssh/master.pem
+    - chmod 600 ~/.ssh/id_rsa ~/.ssh/bastion ~/.ssh/master.pem
+    - echo "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+  script:
+    - >
+      if [ "$CI_COMMIT_BRANCH" == "downstream/develop" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-dev"
+        SERVICE_NAME="dev_dev-${NAME}"
+      elif [ "$CI_COMMIT_BRANCH" == "stage" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-stage"
+        SERVICE_NAME="stage_stage-${NAME}"
+      elif [ "$CI_COMMIT_BRANCH" == "production" ]; then
+        IMAGE_TAG="${IMAGE_NAME}-${NAME}:${CI_COMMIT_SHA}-production"
+        SERVICE_NAME="prod_prod-${NAME}"
+      fi
+    - ssh -J bastion master docker pull $IMAGE_TAG
+    - ssh -J bastion master docker service update --force --with-registry-auth --image $IMAGE_TAG $SERVICE_NAME
+  only:
+    - downstream/develop
+    - stage
+    - production

@@ -1,0 +1,16 @@
+.swiper-initialized{
+    padding-bottom: 40px;
+}
+.swiper-initialized .swiper-pagination{
+    bottom: 0;
+}
+.swiper-initialized .swiper-pagination .swiper-pagination-bullet{
+    background: #072537;
+    opacity: 1;
+    height: 8px;width: 8px;
+    margin: 0 8px;
+}
+.swiper-initialized .swiper-pagination .swiper-pagination-bullet-active{
+    
+    background: #90b2dd;
+}

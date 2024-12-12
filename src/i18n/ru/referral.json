@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "РЕФЕРАЛЬНАЯ СИСТЕМА",
+
+  "Overview_": "Обзор",
+  "Comission_": "Комиссия",
+  "Referred_users_": "Рефералы",
+  "Referred_links_": "Реферальные ссылки",
+
+  "We_are_excited_": "Мы рады, что вы заинтересованы в том, чтобы стать партнером Rake.com. Добро пожаловать в нашу реферальную систему.",
+  "Rake_com_offers_": "Rake.com предлагает своим пользователям партнерскую программу. Рекомендуйте наше казино и зарабатывайте! За каждого пользователя, который регистрируется, играет и пользуется Rake.com, вы будете получать партнерскую комиссию в зависимости от их активности. Начните зарабатывать, создав реферальную кампанию:",
+  "Referral_campaign_": "РЕФЕРАЛЬНАЯ КАМПАНИЯ",
+  "Rake_referral_link_": "Рейковая ссылка реферала",
+  "Rake_referral_code_": "Рейковый код реферала",
+  "Revenue_model_": "МОДЕЛЬ ДОХОДА",
+  "All_of_our_games_": "Все наши игры имеют разное преимущество казино.\nКомиссия рассчитывается по следующей формуле:",
+  "Casino_": "Казино",
+  "Casino_formula_": "ДЕСЯТИЧНОЕ ПРЕИМУЩЕСТВО * СТАВКА * КОМИССИЯ / 2",
+  "All_sports_bets_": "Все ставки на спорт применяются с теоретическим преимуществом казино в 3%.\nКомиссия рассчитывается по следующей формуле:",
+  "Sportsbook_": "Ставки на спорт",
+  "Sportsbook_formula_": "(0,03 * СТАВКА / 2) * КОМИССИЯ",
+
+  "Available_": "ДОСТУПНО",
+  "Commission_": "КОМИССИЯ",
+  "Withdrawn_": "СНЯТО",
+  "Withdraw_all_": "СНЯТЬ ВСЕ",
+
+  "Username_": "ИМЯ ПОЛЬЗОВАТЕЛЯ",
+  "Registered_": "ЗАРЕГИСТРИРОВАН",
+  "Total_deposits_": "ВСЕГО ДЕПОЗИТОВ",
+  "Last_deposit_": "ПОСЛЕДНИЙ ДЕПОЗИТ",
+  "Wagered_": "СТАВКА",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "Создавать",
+  "placeholder_input_referral_code_": "Создайте свой реферальный код",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "партнерский код недействителен"
+}

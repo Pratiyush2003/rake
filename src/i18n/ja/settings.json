@@ -1,0 +1,54 @@
+{
+  "Setting_title_": "設定",
+
+  "General_": "一般",
+  "Security_": "セキュリティ",
+  "Preferences_": "環境設定",
+  "Sessions_": "セッション",
+  "Black_list_": "ブラックリスト",
+
+  "General_title_": "マイアカウント",
+  "General_username_": "ユーザー名",
+  "General_login_": "ログイン",
+  "General_email_": "Email",
+
+  "Password_": "パスワード",
+  "SAVE_": "保存",
+  "Old_Password": "古いパスワード",
+  "New_Password": "新しいパスワード",
+  "Confirm_New_Password": "新しいパスワードを確認",
+
+  "Two_Factor_": "2段階",
+  "To_keep_your_account_extra_secure_": "アカウントを安全に保つには、2段階認証を有効にしてください。",
+  "Open_the_authenticator_": "認証ツールを開き、「+」アイコンをタップして、このコードを認証アプリにコピーします",
+  "Or_scan_the_QR_": "または、携帯電話またはタブレットを使用してQRコードをスキャンしてください",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "有効",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "誰にも見せないでください！コードは秘密にしてください。",
+  "You_may_need_it_if_": "携帯電話を交換したり紛失した場合に必要になる場合があります。",
+
+  "Privacy_title_": "プライバシー",
+  "Privacy_description_": "ユーザーのプライバシーは、Rake.comの最も重要な課題の1つです！これらの設定は、外部の悪影響からユーザーを保護します。",
+  "Privacy_statistic_title_": "すべての統計情報を非表示にする",
+  "Privacy_statistic_description_": "他のユーザーは、勝ち、敗け、賭けの統計情報を見ることができません",
+  "Privacy_button_": "保存",
+
+  "Sessions_title_": "セッション",
+  "Sessions_is_empty": "セッションが空です",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "ブラックリスト",
+  "Blacklist_is_empty": "ブラックリストが空です",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION",
+  "KYC_Verify_": "KYC検証"
+}

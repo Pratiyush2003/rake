@@ -1,0 +1,25 @@
+{
+  "Registration_": "REGISTRO",
+  "Username_": "Nome de usuário",
+  "Password_": "Senha",
+  "Display_Name_": "Nome de exibição",
+  "Date_of_birth_": "Data de nascimento",
+  "Display_Name_": "Nome de exibição",
+  "Email_": "Email",
+  "Code_optional_": "Código (opcional)",
+  "Cancel_": "CANCELAR",
+  "Confirm_": "CONFIRMAR",
+  "I_read_the_terms_conditions_and_privacy_policy_": "Eu li os <1>termos e condições</1> e a <3>política de privacidade</3> e aceito*",
+  "Already_have_an_account": "Já tem uma conta? <1>Login</1>",
+
+  "Please_specify_the_Username_": "Por favor, especifique o nome de usuário",
+  "Next_": "Próximo",
+  "ExampleName_": "ExemploDeNome",
+
+  "Please_enter_the_date_of_birth_": "Por favor, informe a data de nascimento",
+
+  "Username_tooltip_": "São permitidas letras, dígitos e caracteres especiais, como ‘-’, ’’, ‘.’.",
+  "Password_tooltip_": "- Deve ter pelo menos 8 caracteres; \n - Deve incluir pelo menos uma letra maiúscula e uma letra minúscula; \n - Deve incluir um dígito (0123456789) e um caractere especial (!@#$%^&*_+=).",
+  "Display_Name_tooltip_": "Informe o nome que você deseja exibir aos demais usuários",
+  "Affiliation_code_is_invalid_": "o código de afiliação é inválido"
+}

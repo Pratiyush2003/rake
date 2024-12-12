@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "Jeu",
+  "User_": "USER",
+  "Time_": "TIME",
+  "Bet_amount": "BET AMOUNT",
+  "Multiplier_": "MULTIPLICATEUR",
+  "Payout_": "PAIEMENT",
+  "Casino_": "Casino",
+  "Sport_": "Sport",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "PARI",
+  "Placed_by": "Placé par",
+  "On_date_at_time": "le {{ date }} à {{ time }}",
+  "Winner_": "Winner",
+  "Total_Odds": "Total des cotes",
+  "Total_Bet": "Total du pari",
+  "Est_Payout": "Est. Versement",
+  "Play_game": "JOUER À {{ game }}",
+  "Hidden_": "Masqué"
+}

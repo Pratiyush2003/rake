@@ -1,0 +1,9 @@
+
+.bet-table::after{
+background-image: none;
+}
+@media screen and (max-width:575px) {
+    .bet-main{
+        width: calc(100vw - 28px);
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Ustawienia",
+
+  "General_": "Ogólne",
+  "Security_": "Bezpieczeństwo",
+  "Preferences_": "Preferencje",
+  "Sessions_": "Sesje",
+  "Black_list_": "Czarna lista",
+
+  "General_title_": "Moje konto",
+  "General_username_": "Nazwa użytkownika",
+  "General_login_": "LOGOWANIE",
+  "General_email_": "Email",
+
+  "Password_": "Hasło",
+  "SAVE_": "Zapisz",
+  "Old_Password": "Stare hasło",
+  "New_Password": "Nowe hasło",
+  "Confirm_New_Password": "Confirm New Hasło",
+
+  "Two_Factor_": "Uwierzytelnienie dwupoziomowe",
+  "To_keep_your_account_extra_secure_": "Aby zapewnić dodatkowe bezpieczeństwo konta, pozostaw włączone uwierzytelnianie dwuskładnikowe.",
+  "Open_the_authenticator_": "Otwórz program uwierzytelniający za pomocą ikony „+” i skopiuj ten kod do aplikacji uwierzytelniającej",
+  "Or_scan_the_QR_": "Lub zeskanul kod QR używając telefonu lub tabletu",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Włącz",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Zabezpiecz dostęp do niego! Ukryj kod.",
+  "You_may_need_it_if_": "Możesz go potrzebować, jeśli zmienisz lub zgubisz telefon.",
+
+  "Privacy_title_": "Polityka prywatności",
+  "Privacy_description_": "Prywatność użytkowników jest jednym z najważniejszych zagadnień w Rake.com! Te ustawienia ochronią cię przed negatywnymi wpływami z zewnątrz.",
+  "Privacy_statistic_title_": "Ukryj wszystkie statystyki",
+  "Privacy_statistic_description_": "Inni użytkownicy nie będą mogli przeglądać twoich wygranych, przegranych ani statystyk zakładów",
+  "Privacy_button_": "Zapisz",
+
+  "Sessions_title_": "Sesje",
+  "Sessions_is_empty": "Sesje są puste",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Czarna lista",
+  "Blacklist_is_empty": "Czarna lista jest pusta",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

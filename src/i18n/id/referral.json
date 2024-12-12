@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "Sistem referal",
+
+  "Overview_": "Ringkasan",
+  "Comission_": "Komisi",
+  "Referred_users_": "Pengguna referal",
+  "Referred_links_": "Tautan yang dirujuk",
+
+  "We_are_excited_": "Kami senang Anda tertarik untuk menjadi mitra Rake.com. Selamat datang di sistem referal kami.",
+  "Rake_com_offers_": "Rake.com menawarkan program afiliasi kepada penggunanya. Rekomendasikan kasino kami dan hasilkan uang! Untuk setiap pengguna yang mendaftar, bermain, dan menikmati Rake.com, Anda akan mendapatkan komisi afiliasi berdasarkan aktivitas mereka. Mulailah mendapatkan penghasilan dengan membuat kampanye referal:",
+  "Referral_campaign_": "Kampanye referal",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Model pendapatan",
+  "All_of_our_games_": "Semua game kami memiliki house edge yang berbeda.\nKomisi diperoleh dengan rumus berikut:",
+  "Casino_": "Kasino",
+  "Casino_formula_": "EDGE SEBAGAI DESIMAL * NILAI TARUHAN * TINGKAT KOMISI / 2",
+  "All_sports_bets_": "Semua taruhan olahraga diterapkan pada house edge teoritis 3%.\nKomisi diperoleh dengan rumus berikut:",
+  "Sportsbook_": "Sportsbook",
+  "Sportsbook_formula_": "(0,03 * NILAI TARUHAN / 2) * TINGKAT KOMISI",
+
+  "Available_": "Available",
+  "Commission_": "Komisi",
+  "Withdrawn_": "Ditarik",
+  "Withdraw_all_": "Tarik semua",
+
+  "Username_": "Nama Pengguna",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "Anda tidak memiliki referal",
+  "Success_": "Success",
+  "create_referral_code_": "Membuat",
+  "placeholder_input_referral_code_": "Buat kode referensi Anda...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "kode afiliasi tidak valid"
+}

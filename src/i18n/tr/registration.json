@@ -1,0 +1,23 @@
+{
+  "Registration_": "REGISTRATION",
+  "Username_": "Kullanıcı adı",
+  "Password_": "Parola",
+  "Date_of_birth_": "Date of birth",
+  "Email_": "Email",
+  "Code_optional_": "Code (optional)",
+  "Cancel_": "VAZGEÇ",
+  "Confirm_": "CONFIRM",
+  "I_read_the_terms_conditions_and_privacy_policy_": "I read the <1>terms & conditions</1> and <3> privacy policy</3>, and I accept it*",
+  "Already_have_an_account": "Already have an account? <1>Login</1>",
+  "Continue_social_": "Or continue with",
+
+  "Please_specify_the_Username_": "Please specify the Username",
+  "Next_": "Next",
+  "ExampleName_": "ExampleName",
+
+  "Please_enter_the_date_of_birth_": "Please, enter the date of birth",
+
+  "Username_tooltip_": "Letters, digits, and special characters, such as ‘-’, ’_’, ‘.’ are allowed.",
+  "Password_tooltip_": "- It must be not less than 8 characters; \n - It must include at least one upper and one lower case letters; \n - It must include a digit (0123456789) and a special character (!@#$%^&*_+=).",
+  "Affiliation_code_is_invalid_": "üyelik kodu geçersiz"
+}

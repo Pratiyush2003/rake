@@ -1,0 +1,22 @@
+{
+  "Registration_": "REGISTRATION",
+  "Username_": "Nombre de usuario",
+  "Password_": "Contraseña",
+  "Date_of_birth_": "Fecha de nacimiento",
+  "Email_": "Email",
+  "Code_optional_": "Código (opcional)",
+  "Cancel_": "CANCELAR",
+  "Confirm_": "CONFIRMAR",
+  "I_read_the_terms_conditions_and_privacy_policy_": "He leído los <1>términos y condiciones</1> y <3>la política de privacidad</3>, y los acepto*",
+  "Already_have_an_account": "¿Ya tienes una cuenta? <1>Acceso</1>",
+  "Continue_social_": "O continuar con",
+  "Please_specify_the_Username_": "Por favor, especifique el nombre de usuario",
+  "Next_": "Next",
+  "ExampleName_": "ExampleName",
+
+  "Please_enter_the_date_of_birth_": "Por favor, introduzca la fecha de nacimiento",
+
+  "Username_tooltip_": "Se permiten letras, dígitos y caracteres especiales, como ‘-’, ’_’, ‘.’",
+  "Password_tooltip_": "- Debe tener no menos de 8 caracteres; \n - Debe incluir al menos una letra mayúscula y una minúscula; \n - Debe incluir un dígito (0123456789) y un carácter especial (!@#$%^&*_+=).",
+  "Affiliation_code_is_invalid_": "el código de afiliación no es válido"
+}

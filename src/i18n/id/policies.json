@@ -1,0 +1,9 @@
+{
+  "Version_": "Version {{version}}",
+  "Anti-Money_Laundering": "Anti-Money Laundering",
+  "KYC_and_Privacy_Policy": "Privacy Policy & KYC",
+  "Responsible_Gaming": "Responsible Gaming",
+  "Terms_title_": "Terms & Conditions",
+  "Month_year": "{{ date, monthYear }}",
+  "Download_": "Download"
+}

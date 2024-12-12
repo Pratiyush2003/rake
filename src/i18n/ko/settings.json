@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "설정",
+
+  "General_": "일반",
+  "Security_": "보안",
+  "Preferences_": "기본 설정",
+  "Sessions_": "세션",
+  "Black_list_": "블랙리스트",
+
+  "General_title_": "내 계정",
+  "General_username_": "아이디",
+  "General_login_": "로그인",
+  "General_email_": "Email",
+
+  "Password_": "패스워드",
+  "SAVE_": "저장",
+  "Old_Password": "기존 비밀번호",
+  "New_Password": "비밀번호",
+  "Confirm_New_Password": "새 비밀번호 확인",
+
+  "Two_Factor_": "2단계",
+  "To_keep_your_account_extra_secure_": "계정을 더욱 안전하게 유지하려면 2단계 인증을 활성화된 상태로 두시길 바랍니다.",
+  "Open_the_authenticator_": "인증기를 열고 '+' 아이콘을 누른 후 이 코드를 본인 인증기 앱에 복사하세요",
+  "Or_scan_the_QR_": "또는 휴대폰이나 태블릿으로 QR 코드를 스캔하세요",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "활성화",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "타인이 보지 않도록 주의하세요! 비밀 코드를 보관하세요.",
+  "You_may_need_it_if_": "휴대폰을 변경하거나 분실할 경우 필요할 수 있습니다.",
+
+  "Privacy_title_": "개인 정보 보호",
+  "Privacy_description_": "사용자 개인 정보 보호는 Rake.com에서 가장 중요하게 다루고 있는 사안입니다! 이러한 설정을 통해 부정적인 외부 영향으로부터 사용자를 보호할 수 있습니다.",
+  "Privacy_statistic_title_": "모든 통계 숨기기",
+  "Privacy_statistic_description_": "다른 사용자는 승패 및 베팅 통계를 확인할 수 없습니다",
+  "Privacy_button_": "저장",
+
+  "Sessions_title_": "세션",
+  "Sessions_is_empty": "세션이 비어 있습니다",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "블랙리스트",
+  "Blacklist_is_empty": "블랙리스트가 비어 있습니다",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

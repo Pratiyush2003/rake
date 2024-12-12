@@ -1,0 +1,33 @@
+.redeem-input div:nth-child(1) {
+  height: auto;
+}
+.redeem-image {
+  clip-path: polygon(16% 0, 99% 0, 88% 100%, 5% 100%);
+  width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+  .redeem-main {
+    width: calc(100vw - 14px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .redeem-image {
+    clip-path: polygon(-300% -6%, 0 77%, 172% 100%, 101% 41%);
+    filter: brightness(50%);
+    height: auto;
+    margin-left: 40px;
+    width: 100%;
+  }
+  .redeem-main {
+    width: 335px ;
+    height: 204px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .redeem-main {
+    width: calc(100vw - 14px) ;
+    height: 204px;
+  }
+}

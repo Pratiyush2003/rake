@@ -1,0 +1,15 @@
+{
+  "Registration_": "РЕГИСТРАЦИЯ",
+  "Restoring_access_": "Восстановление доступа",
+  "A-six-digit_verification_code": "6-значный проверочный код был отправлен на \n",
+  "Enter_below_": ". Пожалуйста, введите его ниже",
+  "Didnt_receive_": "Не получили код? <1>Отправить повторно</1>",
+  "Cancel_": "ОТМЕНА",
+  "Confirm_": "Подтвердить",
+  "Continue_": "Продолжить",
+  "Already_have_an_account_": "У вас уже есть аккаунт? <1>Войти</1>",
+  "Resend_wrong_": "Что-то пошло не так",
+
+  "Two_factor_title_": "Google authenticate",
+  "Two_factor_description_": "Open the Google authenticator app. \n Please, enter the 6 digit code:"
+}

@@ -1,0 +1,13 @@
+{
+  "Login_": "ログイン",
+  "Username_": "メールアドレスま",
+  "Password_": "パスワード",
+  "Continue_social_": "または次を続行してください",
+  "Cancel_": "キャンセル",
+  "Not_account_": "アカウントをお持ちですか？<1>登録</1>",
+  "Forgot_password_": "パスワードをお忘れですか？<1>アクセスを回復する</1>",
+  "Error_": "Entered login and/or password is incorrect. \n Please check and try one more time.",
+
+  "Username_tooltip_": "Letters, digits, and special characters, such as ‘-’, ’_’, ‘.’ are allowed.",
+  "Password_tooltip_": "- It must be not less than 8 characters; \n - It must include at least one upper and one lower case letters; \n - It must include a digit (0123456789) and a special character (!@#$%^&*_+=)."
+}

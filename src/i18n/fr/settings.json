@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Paramètres",
+
+  "General_": "Informations générales",
+  "Security_": "Sécurité",
+  "Preferences_": "Préférences",
+  "Sessions_": "Sessions",
+  "Black_list_": "Liste noire",
+
+  "General_title_": "Mon compte",
+  "General_username_": "Identifiant",
+  "General_login_": "S’identifier",
+  "General_email_": "Email",
+
+  "Password_": "Mot de passe",
+  "SAVE_": "Enregistrer",
+  "Old_Password": "Ancien mot de passe",
+  "New_Password": "Nouveau mot de passe",
+  "Confirm_New_Password": "Confirmer le nouveau mot de passe",
+
+  "Two_Factor_": "Deux facteurs",
+  "To_keep_your_account_extra_secure_": "Pour assurer une plus grande sécurité à votre compte, conservez une authentification à deux facteurs.",
+  "Open_the_authenticator_": "Ouvrez le dispositif d'authentification, appuyez sur l'icône « + » et copiez ce code dans votre application d'authentification",
+  "Or_scan_the_QR_": "Ou scannez le code QR à l'aide de votre téléphone ou de votre tablette",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Activer",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Ne laissez personne le voir ! Gardez le code secret.",
+  "You_may_need_it_if_": "Vous pourriez en avoir besoin si vous changez ou perdez votre téléphone.",
+
+  "Privacy_title_": "Confidentialité",
+  "Privacy_description_": "Rake.com prend très au sérieux la confidentialité des utilisateurs  ! Ces paramètres vous protégeront des influences extérieures négatives.",
+  "Privacy_statistic_title_": "Masquer toutes vos statistiques",
+  "Privacy_statistic_description_": "Les autres utilisateurs ne pourront pas voir vos statistiques de gains, de pertes et de mises",
+  "Privacy_button_": "Enregistrer",
+
+  "Sessions_title_": "Sessions",
+  "Sessions_is_empty": "La rubrique Sessions est vide",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Liste noire",
+  "Blacklist_is_empty": "La rubrique Liste noire est vide",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

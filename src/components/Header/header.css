@@ -1,0 +1,31 @@
+.up_arrow::after {
+  border-bottom: 5px solid #49ba36;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  content: '';
+  display: inline-block;
+  height: 0;
+  margin: 0 2px;
+  vertical-align: super;
+  width: 0;
+}
+@media screen and (max-width: 575px) {
+  .register-main {
+    width: calc(100vw - 14px);
+  }
+  .login-main {
+    width: calc(100vw - 14px);
+  }
+  .wallet-main {
+    width: calc(100vw - 14px);
+  }
+  .wallet-main {
+    width: calc(100vw - 14px);
+  }
+}
+.header-section div:nth-child(2) div {
+  height: auto;
+}
+.header-section div:nth-child(2) div label{
+  display: none;
+}

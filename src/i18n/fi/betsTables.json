@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "Peli",
+  "User_": "USER",
+  "Time_": "TIME",
+  "Bet_amount": "BET AMOUNT",
+  "Multiplier_": "KERROIN",
+  "Payout_": "MAKSU",
+  "Casino_": "Kasino",
+  "Sport_": "Urheilu",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "VETO",
+  "Placed_by": "asetettu",
+  "On_date_at_time": "on {{ date }} at {{ time }}",
+  "Winner_": "Winner",
+  "Total_Odds": "Vedonlyöntisuhteet yhteensä",
+  "Total_Bet": "Kokonaispanos",
+  "Est_Payout": "Arv. maksu",
+  "Play_game": "PELAA {{ game }}",
+  "Hidden_": "Piilotettu"
+}

@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "게임",
+  "User_": "사용자",
+  "Time_": "시간",
+  "Bet_amount": "베팅 금액",
+  "Multiplier_": "배수",
+  "Payout_": "지불",
+  "Casino_": "카지노",
+  "Sport_": "스포츠",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "베팅",
+  "Placed_by": "베팅자:",
+  "On_date_at_time": "{{ date }} 오후 {{ time }}",
+  "Winner_": "우승자",
+  "Total_Odds": "총 승률",
+  "Total_Bet": "베팅 합계",
+  "Est_Payout": "예상 지불",
+  "Play_game": "{{ game }} 플레이",
+  "Hidden_": "숨김"
+}

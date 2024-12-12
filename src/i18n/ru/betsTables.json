@@ -1,0 +1,25 @@
+{
+  "My_Bets": "Мои ставки",
+  "All_Bets": "Все ставки",
+  "High_Rollers": "Хайроллеры",
+  "Game_": "ИГРА",
+  "User_": "ПОЛЬЗОВАТЕЛЬ",
+  "Time_": "ВРЕМЯ",
+  "Bet_amount": "СУММА СТАВКИ",
+  "Multiplier_": "МНОЖИТЕЛЬ",
+  "Payout_": "ВЫПЛАТА",
+  "Casino_": "Казино",
+  "Sport_": "Спорт",
+  "Odds_": "ШАНСЫ",
+  "Event_": "СОБЫТИЕ",
+
+  "Bet_": "Bet",
+  "Placed_by": "Placed by",
+  "On_date_at_time": "on {{ date }} at {{ time }}",
+  "Winner_": "Winner",
+  "Total_Odds": "Общие шансы",
+  "Total_Bet": "Общая ставка",
+  "Est_Payout": "Est. Payout",
+  "Play_game": "Играть в  {{ game }}",
+  "Hidden_": "Скрытый"
+}

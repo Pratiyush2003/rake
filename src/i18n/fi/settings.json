@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Asetukset",
+
+  "General_": "Yleistä",
+  "Security_": "Turvallisuus",
+  "Preferences_": "valinnat",
+  "Sessions_": "Istunnot",
+  "Black_list_": "Musta lista",
+
+  "General_title_": "Oma tilini",
+  "General_username_": "Käyttäjänimi",
+  "General_login_": "KIRJAUDU SISÄÄN",
+  "General_email_": "Email",
+
+  "Password_": "Salasana",
+  "SAVE_": "Tallenna",
+  "Old_Password": "Vanha salasana",
+  "New_Password": "Uusi salasana",
+  "Confirm_New_Password": "Vahvista uusi salasana",
+
+  "Two_Factor_": "Kaksivaiheinen",
+  "To_keep_your_account_extra_secure_": "Pidä tilisi erityisen turvallisena ottamalla kaksivaiheinen todennus käyttöön.",
+  "Open_the_authenticator_": "Avaa todentaja, napauta kuvaketta + ja kopioi tämä koodi todentajasovellukseesi",
+  "Or_scan_the_QR_": "Tai skannaa QR-koodi puhelimellasi tai tabletillasi",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Aktivoi",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Älä anna kenenkään nähdä tätä! Säilytä salainen koodi.",
+  "You_may_need_it_if_": "Saatat tarvita sitä, jos vaihdat tai kadotat puhelimesi.",
+
+  "Privacy_title_": "Yksityisyys",
+  "Privacy_description_": "Käyttäjien yksityisyys on yksi Rake.comin tärkeimmistä asioista! Nämä asetukset suojaavat sinua negatiivisilta ulkoisilta vaikutuksilta.",
+  "Privacy_statistic_title_": "Piilota kaikki tilastosi",
+  "Privacy_statistic_description_": "Muut käyttäjät eivät voi nähdä voittojasi, tappioitasi ja panoksiesi tilastoja",
+  "Privacy_button_": "Tallenna",
+
+  "Sessions_title_": "Istunnot",
+  "Sessions_is_empty": "Istunnot on tyhjä",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Musta lista",
+  "Blacklist_is_empty": "Musta lista on tyhjä",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "System poleceń",
+
+  "Overview_": "Przegląd",
+  "Comission_": "Prowizja",
+  "Referred_users_": "Polecanie użytkowników",
+  "Referred_links_": "Linki polecane",
+
+  "We_are_excited_": "Cieszymy się, że chcesz zostac partnerem Rake.com. Witamy w naszym systemie poleceń.",
+  "Rake_com_offers_": "Rake.com oferuje uzytkownikom program partnerski. Polecaj nasze kasyno i zarabiaj! Za każdego użytkownika, który zarejestruje się, gra i korzysta z Rake.com, otrzymasz prowizję partnerską opartą na jego aktywności. Stwórz kampanię polecającą i zacznij zarabiać:",
+  "Referral_campaign_": "Kampania partnerska",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Model przychodów",
+  "All_of_our_games_": "Wszystkie nasze gry mają różną przewagę kasyna.\nProwizja jest obliczana według następującego klucza:",
+  "Casino_": "Kasyno",
+  "Casino_formula_": "KRAWĘDŹ DZIESIĘTNA * OBSTAWIENIE * STAWKA PROWIZJI / 2",
+  "All_sports_bets_": "Wszystkie zakłady sportowe mają 3% teoretycznej przewagi kasyna.\nProwizja jest obliczana według następującego klucza:",
+  "Sportsbook_": "Zakłady sportowe",
+  "Sportsbook_formula_": "(0,03 * OBSTAWIENIE / 2) * STAWKA PROWIZJI",
+
+  "Available_": "Available",
+  "Commission_": "Prowizja",
+  "Withdrawn_": "Wypłacone",
+  "Withdraw_all_": "Wypłać wszystko",
+
+  "Username_": "Nazwa użytkownika",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "Tworzyć",
+  "placeholder_input_referral_code_": "Utwórz swój kod polecający...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "kod partnerski jest nieprawidłowy"
+}

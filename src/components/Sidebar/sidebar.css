@@ -1,0 +1,114 @@
+.aside-main::-webkit-scrollbar {
+  width: 0 !important;
+}
+.aside-main {
+  /* display: block; */
+  height: calc(100% - 64px);
+}
+.aside-main-mobile {
+  display: none;
+  height: calc(100% - 64px);
+}
+.menu-icon {
+  display: block;
+}
+.bottom-side-bar-main {
+  display: none;
+}
+.bottom-side-bar img {
+  filter: brightness(0) saturate(100%) invert(77%) sepia(13%) saturate(670%)
+    hue-rotate(159deg) brightness(95%) contrast(92%);
+}
+.bottom-side-bar:hover img {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(50%) saturate(7236%)
+    hue-rotate(179deg) brightness(104%) contrast(104%);
+}
+.aside-main-small {
+  animation: shrinkSidebar 0.2s forwards;
+}
+@keyframes shrinkSidebar {
+  from {
+    width: 225px;
+  }
+  to {
+    width: 60px;
+  }
+}
+.aside-tablet-close{
+  animation: tabletClose 0.2s forwards;
+}
+
+@keyframes tabletClose {
+  from {
+    width: 60px;
+    min-width: 60px;
+  }
+  to {
+    width: 0;
+    min-width: 0;
+    padding-left: 0;
+    padding-right: 0;
+    border: transparent;
+  }
+}
+.aside-tablet {
+  width: 60px;
+  animation: tablet 0.2s forwards ;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+@keyframes tablet {
+  from {
+    width: 0;
+    min-width: 0;
+    /* padding: 0; */
+  }
+  to {
+    width: 60px;
+    min-width: 60px;
+  }
+}
+.aside-main-big {
+  animation: expandSidebar 0.2s forwards;
+  width: 60px;
+}
+
+@keyframes expandSidebar {
+  from {
+    width: 60px;
+    min-width: 60px;
+  }
+  to {
+    width: 225px;
+    min-width: 225px;
+  }
+}
+.popover-main::-webkit-scrollbar {
+  width: 0 !important;
+}
+.aside-main-mobile::-webkit-scrollbar {
+  width: 0 !important;
+}
+@media screen and (max-width: 575px) {
+  .aside-main {
+    width: 100% !important;
+    min-width: 100% !important;
+    height: calc(100vh - 114px);
+    display: none;
+  }
+  .aside-main-mobile {
+    display: block;
+    width: 100% !important;
+    min-width: 100% !important;
+    height: calc(100vh - 114px);
+  }
+  .menu-icon {
+    display: none;
+  }
+  .bottom-side-bar-main {
+    display: flex;
+  }
+}

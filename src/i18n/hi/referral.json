@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "रेफ़रल सिस्टम",
+
+  "Overview_": "अवलोकन",
+  "Comission_": "कमीशन",
+  "Referred_users_": "रेफ़र किए गए यूज़र",
+  "Referred_links_": "संदर्भित लिंक",
+
+  "We_are_excited_": "हमें खुशी है कि आप Rake.com भागीदार बनने में रुचि रखते हैं। हमारे रेफ़रल सिस्टम में आपका स्वागत है।",
+  "Rake_com_offers_": "Rake.com अपने यूज़र के लिए संबद्ध कार्यक्रम पेश करता है। हमारे कैसीनो की सिफ़ारिश करें और पैसे कमाएँ! साइन अप करके खेलने और Rake.com का आनंद लेने वाले हर यूज़र के लिए, आपको उनकी गतिविधि के आधार पर कमीशन मिलेगा। रेफ़रल अभियान बनाकर कमाई करना शुरू करें:",
+  "Referral_campaign_": "रेफ़रल अभियान",
+  "Rake_referral_link_": "\nरेक रेफरल लिंक",
+  "Rake_referral_code_": "रेक रेफरल कोड",
+  "Revenue_model_": "आय मॉडल",
+  "All_of_our_games_": "हमारे सभी गेम का हाउस एज अलग-अलग है।\nकमीशन के लिए नीचे दिया गया फ़ॉर्मूला इस्तेमाल किया जाता है:",
+  "Casino_": "कैसीनो",
+  "Casino_formula_": "दशमलव के रूप में एज * दाँव * कमीशन दर / 2",
+  "All_sports_bets_": "सभी स्पोर्ट्स बेट 3% सैद्धांतिक हाउस एज पर लागू होते हैं।\nकमीशन के लिए नीचे दिया गया फ़ॉर्मूला इस्तेमाल किया जाता है:",
+  "Sportsbook_": "स्पोर्ट्सबुक",
+  "Sportsbook_formula_": "(0.03 * दाँव / 2) * कमीशन दर",
+
+  "Available_": "टिप्पणी",
+  "Commission_": "कमीशन",
+  "Withdrawn_": "निकाली गई राशि",
+  "Withdraw_all_": "पूरी राशि निकालें",
+
+  "Username_": "उपयोकर्ता नाम",
+  "Registered_": "दर्ज कराई",
+  "Total_deposits_": "कुल जमा",
+  "Last_deposit_": "अंतिम जमा",
+  "Wagered_": "दांव",
+
+  "You_dont_have_referrals_": "आपके पास रेफ़रल नहीं है",
+  "Success_": "सफलता",
+  "create_referral_code_": "बनाएं",
+  "placeholder_input_referral_code_": "अपना रेफरल कोड जनरेट करें...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "संबद्धता कोड अमान्य है"
+}

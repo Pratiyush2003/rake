@@ -1,0 +1,54 @@
+{
+  "Setting_title_": "Preferencias",
+
+  "General_": "GENERAL",
+  "Security_": "SEGURIDAD",
+  "Preferences_": "Preferencias",
+  "Sessions_": "Sesiones",
+  "Black_list_": "Lista negra",
+
+  "General_title_": "Mi cuenta",
+  "General_username_": "Nombre de usuario",
+  "General_login_": "Inicio de sesión",
+  "General_email_": "Correo electrónico",
+
+  "Password_": "Contraseña",
+  "SAVE_": "GUARDAR",
+  "Old_Password": "Contraseña anterior",
+  "New_Password": "Nueva contraseña",
+  "Confirm_New_Password": "Confirmar nueva contraseña",
+
+  "Two_Factor_": "AUTENTICACIÓN DE DOS FACTORES",
+  "To_keep_your_account_extra_secure_": "Para mantener tu cuenta extra segura, mantén activada la autenticación de dos factores.",
+  "Open_the_authenticator_": "Abre el autenticador, toca en el icono \"+\" y copia este código en tu aplicación de autenticación.",
+  "Or_scan_the_QR_": "O escanea el código QR utilizando tu teléfono o tableta.",
+  "Two_Factor_Code_": "Código de dos factores",
+  "Enable_": "ACTIVAR",
+  "Disable_": "DESACTIVAR",
+  "Dont_let_anyone_see_this_": "¡No dejes que nadie lo vea! Guarda el código secreto.",
+  "You_may_need_it_if_": "Podrías necesitarlo si cambias o pierdes tu teléfono.",
+
+  "Privacy_title_": "Privacidad",
+  "Privacy_description_": "La privacidad de los usuarios es uno de los temas más importantes para Rake.com. Esta configuración te protegerá de influencias externas negativas.",
+  "Privacy_statistic_title_": "Ocultar todas tus estadísticas",
+  "Privacy_statistic_description_": "Otros usuarios no podrán ver tus estadísticas de ganancias, pérdidas y apuestas.",
+  "Privacy_button_": "Guardar",
+
+  "Sessions_title_": "Sesiones",
+  "Sessions_is_empty": "Las sesiones están vacías",
+  "Sessions_table_browser_": "Navegador",
+  "Sessions_table_location_": "Ubicación",
+  "Sessions_table_ip_address_": "Dirección IP",
+  "Sessions_table_last_used_": "Último uso",
+  "Sessions_table_action_": "Acción",
+  "Sessions_table_close_": "Cerrar",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Lista negra",
+  "Blacklist_is_empty": "La lista negra está vacía",
+  "Remove_from_the_Black_List": "Eliminar de la lista negra",
+  "Remove_": "Eliminar",
+  "USER_": "USUARIO",
+  "ACTION_": "ACCIÓN",
+  "KYC_Verify_": "Verificación KYC"
+}

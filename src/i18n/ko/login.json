@@ -1,0 +1,13 @@
+{
+  "Login_": "로그인",
+  "Username_": "이메일",
+  "Password_": "패스워드",
+  "Continue_social_": "또는 간편 로그인하기\n",
+  "Cancel_": "취소",
+  "Not_account_": "계정이 없으신가요? <1>회원가입</1>",
+  "Forgot_password_": "비밀번호를 잊으셨나요? <1>액세스 복구</1>",
+  "Error_": "Entered login and/or password is incorrect. \n Please check and try one more time.",
+
+  "Username_tooltip_": "Letters, digits, and special characters, such as ‘-’, ’_’, ‘.’ are allowed.",
+  "Password_tooltip_": "- It must be not less than 8 characters; \n - It must include at least one upper and one lower case letters; \n - It must include a digit (0123456789) and a special character (!@#$%^&*_+=)."
+}

@@ -1,0 +1,42 @@
+{
+  "Referral_system_": "SISTEMA DE REFERIDOS",
+
+  "Overview_": "Resumen",
+  "Comission_": "Comisión",
+  "Referred_users_": "Usuarios referidos",
+  "Referred_links_": "Enlaces referidos",
+
+  "We_are_excited_": "Estamos encantados de que estés interesado en convertirse en socio de Rake.com. Bienvenido a nuestro sistema de referidos.",
+  "Rake_com_offers_": "Rake.com ofrece a sus usuarios un programa de afiliados. ¡Recomienda nuestro casino y gana dinero! Por cada usuario que se registre, juegue y disfrute en Rake.com, ganarás una comisión de afiliado basada en su actividad. Empieza a ganar creando una campaña de recomendación:",
+  "Referral_campaign_": "CAMPAÑA DE REFERIDOS",
+  "Rake_referral_link_": "Enlace de referido de Rake",
+  "Rake_referral_code_": "Código de referido de Rake",
+  "Revenue_model_": "MODELO DE INGRESOS",
+
+  "All_of_our_games_": "Todos nuestros juegos tienen una ventaja de la casa diferente. \n La comisión se obtiene mediante la siguiente fórmula:",
+  "Casino_": "Casino",
+  "Casino_formula_": "MARGEN EN DECIMALES * APOSTADO * TASA DE COMISIÓN / 2",
+
+  "All_sports_bets_": "A todas las apuestas deportivas se les aplica un márgen teórico de la casa del 3%. \n La comisión se obtiene mediante la siguiente fórmula:",
+  "Sportsbook_": "Apuestas deportivas",
+  "Sportsbook_formula_": "(0.03 * APUESTADO / 2) * TASA DE COMISIÓN",
+
+  "Available_": "Disponible",
+  "Commission_": "Comisión",
+  "Withdrawn_": "RETIRADO",
+  "Withdraw_all_": "RETIRAR TODO",
+
+  "Username_": "Nombre de usuario",
+  "Registered_": "Registrado",
+  "Total_deposits_": "Depósitos totales",
+  "Last_deposit_": "Último depósito",
+  "Wagered_": "Apostado",
+
+  "You_dont_have_referrals_": "No tienes referencias",
+  "create_referral_code_": "Crear",
+  "placeholder_input_referral_code_": "Crea tu código de referencia...",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "el código de afiliación no es válido"
+}

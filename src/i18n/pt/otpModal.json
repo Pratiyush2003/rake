@@ -1,0 +1,15 @@
+{
+  "Registration_": "Registo",
+  "Restoring_access_": "Recuperação de acesso",
+  "A-six-digit_verification_code": "Foi enviado um código de verificação de seis dígitos para \n",
+  "Enter_below_": ". Por favor, insira-o abaixo",
+  "Didnt_receive_": "Não recebeu o código? <1>Reenviar</1>",
+  "Cancel_": "CANCELAR",
+  "Confirm_": "Confirmar",
+  "Continue_": "Continuar",
+  "Already_have_an_account_": "Já tem uma conta? <1>Iniciar sessão</1>",
+  "Resend_wrong_": "Algo correu mal",
+
+  "Two_factor_title_": "Autenticação Google",
+  "Two_factor_description_": "Abra a aplicação de autenticação Google. \n Por favor, insira o código de 6 dígitos:"
+}

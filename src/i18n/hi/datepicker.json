@@ -1,0 +1,28 @@
+{
+  "Date_of_birth_": "जन्म की तारीख",
+
+  "Day_": "दिन",
+  "Month_": "महीना",
+  "Year_": "वर्ष",
+
+  "January_": "जनवरी",
+  "February_": "फ़रवरी",
+  "March_": "मार्च",
+  "April_": "अप्रैल",
+  "May_": "मई",
+  "June_": "जून",
+  "July_": "जुलाई",
+  "August_": "अगस्त",
+  "September_": "सितंबर",
+  "October_": "अक्टूबर",
+  "November_": "नवंबर",
+  "December_": "दिसंबर",
+
+  "Monday_": "सोमवार",
+  "Tuesday_": "मंगलवार",
+  "Wednesday_": "बुधवार",
+  "Thursday_": "गुरुवार",
+  "Friday_": "शुक्रवार",
+  "Saturday_": "शनिवार",
+  "Sunday_": "रविवार"
+}

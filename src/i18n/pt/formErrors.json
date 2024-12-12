@@ -1,0 +1,43 @@
+{
+  "Username_required_": "O nome de utilizador é obrigatório",
+  "Username_incorrect_": "Formato de nome de utilizador incorreto",
+  "Username_already_": "Esse nome de utilizador já existe. Por favor, tente novamente!",
+  "Username_self_send_": "Você não pode enviar para você mesmo",
+
+  "Try_again_": "Erro interno, por favor tente novamente mais tarde",
+  "Username_min_length_": "Por favor, insira o nome de exibição com no mínimo 5 caracteres",
+  "Username_max_length_": "Por favor, insira o nome de exibição com no máximo 256 caracteres",
+  "Username_incorrect_format_": "Por favor, apenas letras, dígitos e caracteres especiais como '-', '.' e '_' são permitidos",
+  "Password_incorrect_format": "- Deve incluir pelo menos uma letra maiúscula e uma minúscula; - Deve incluir um dígito (0123456789) e um caractere especial (!@#$%^&*+=).",
+  "Wrong_code_length": "Por favor, insira o código com no mínimo 5 caracteres",
+
+  "Password_required_": "A senha é obrigatória",
+  "Password_min_": "A senha deve ter no mínimo 8 caracteres",
+  "Password_incorrect_": "Formato de senha incorreto",
+  "Entered_login_password_is_incorrect": "Nome de utilizador e/ou senha incorretos.",
+  "Please_check_and_try_one_more_time": "Por favor, verifique e tente novamente.",
+  "Passwords_do_not_match_": "As senhas não coincidem",
+  "Passwords_match_": "as senhas coincidem",
+
+  "Birthday_required_": "Data de nascimento é obrigatória",
+  "Birthday_incorrect_": "Você deve ter pelo menos 18 anos",
+
+  "Email_required_": "O email é obrigatório",
+  "Email_incorrect_": "Email incorreto",
+  "Email_already_": "Esse email já está em uso! Por favor, use o formulário de recuperação de senha ou insira um email diferente.",
+
+  "Terms_required_": "Os termos são obrigatórios",
+
+  "Referral_code_": "O código não é válido!",
+  "Affiliation_code_is_invalid_": "o código de afiliação é inválido",
+
+  "Wrong_code_": "Código de verificação incorreto",
+  "No_such_email_": "Nenhum email encontrado. Por favor, verifique e tente novamente.",
+
+  "Amount_required_": "O montante é obrigatório",
+  "Amount_insufficient_": "Fundos insuficientes",
+  "Buy_coin_required_": "A compra de moedas é obrigatória",
+
+  "User_not_found_": "Utilizador não encontrado",
+  "Something_went_wrong_": "Algo deu errado"
+}

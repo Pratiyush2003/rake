@@ -1,0 +1,25 @@
+{
+  "My_Bets": "我的投注",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "游戏",
+  "User_": "用户",
+  "Time_": "时间",
+  "Bet_amount": "投注金额",
+  "Multiplier_": "倍数",
+  "Payout_": "支出",
+  "Casino_": "赌场",
+  "Sport_": "体育",
+  "Odds_": "赔率",
+  "Event_": "比赛项目",
+
+  "Bet_": "Bet",
+  "Placed_by": "Placed by",
+  "On_date_at_time": "on {{ date }} at {{ time }}",
+  "Winner_": "Winner",
+  "Total_Odds": "Total Odds",
+  "Total_Bet": "Total Bet",
+  "Est_Payout": "Est. Payout",
+  "Play_game": "Play {{ game }}",
+  "Hidden_": "隐身"
+}

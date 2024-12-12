@@ -1,0 +1,42 @@
+{
+  "Username_required_": "Username is required",
+  "Username_incorrect_": "Incorrect username format",
+  "Username_already_": "Such username already exists. Please try again!",
+  "Username_self_send_": "You can't send it to yourself",
+
+  "Try_again_": "Internal error, please try again later",
+  "Username_min_length_": "Please, enter the display name with min. 5 characters",
+  "Username_max_length_": "Please, enter the display name with max. 256 characters",
+  "Username_incorrect_format_": "Please, just letters, digits and special characters like '-', '.' and '_' are allowed",
+  "Password_incorrect_format_": "- It must include at least one upper and one lower case letters; - It must include a digit (0123456789) and a special character (!@#$%^&*_+=).",
+  "Wrong_code_length_": "Please, enter the code with min. 5 characters",
+
+  "Password_required_": "Parola is required",
+  "Password_min_": "Parola must have a minimum 8 characters",
+  "Password_incorrect_": "Incorrect Parola format",
+  "Entered_login_password_is_incorrect": "Entered login and/or password is incorrect.",
+  "Please_check_and_try_one_more_time": "Please check and try one more time.",
+  "Passwords_do_not_match_": "Passwords do not match",
+  "Passwords_match_": "passwords match",
+
+  "Birthday_required_": "Birthday is required",
+  "Birthday_incorrect_": "You must be at least 18 years",
+
+  "Email_required_": "Email is required",
+  "Email_incorrect_": "Email incorrect",
+  "Email_already_": "Such email is already occupied! Please use the password recovery form or enter a different email.",
+
+  "Terms_required_": "Terms is required",
+
+  "Referral_code_": "Code is not valid!",
+  "Affiliation_code_is_invalid_": "üyelik kodu geçersiz",
+
+  "Wrong_code_": "Incorrect verification code",
+  "No_such_email_": "No such email. Please check and try one more time.",
+
+  "Amount_required_": "Amount is required",
+  "Amount_insufficient_": "Insufficient funds",
+  "Buy_coin_required_": "Buy coin is required",
+
+  "User_not_found_": "User not found"
+}

@@ -1,0 +1,134 @@
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.filete {
+  transition: filter 0.3s ease;
+}
+
+.filete:hover,
+.filete.active {
+  filter: brightness(0) invert(1);
+}
+
+.home-video::after {
+  background: linear-gradient(0deg, rgba(4, 20, 30, 0), #04141e);
+  content: '';
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
+.home-video::before {
+  background: linear-gradient(180deg, rgba(4, 20, 30, 0), #04141e);
+  bottom: -2px;
+  content: '';
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: 1;
+}
+.card-image-main .card-image-wrap .card-image::after {
+  bottom: 0;
+  content: '';
+  height: 100px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  width: 100%;
+  z-index: 4;
+}
+.card-image-main .card-image-wrap .card-image::before {
+  border-radius: 10px 10px 0 0;
+  content: '';
+  height: 100%;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+}
+.card-image-main .card-image-wrap:nth-child(1) .card-image::after {
+  background: linear-gradient(180deg, #0099f4, rgba(0, 153, 244, 0));
+}
+.card-image-main .card-image-wrap:nth-child(1) .card-image::before {
+  background: #0088ea;
+}
+.card-image-main .card-image-wrap:nth-child(2) .card-image::after {
+  background: linear-gradient(180deg, #cc6022, rgba(234, 145, 95, 0));
+}
+.card-image-main .card-image-wrap:nth-child(2) .card-image::before {
+  background: #d66a2c;
+}
+.home-table-main .home-table-row:last-child td {
+  background-image: linear-gradient(rgba(4, 20, 30, 0), #04141e);
+}
+.home-swipe::after {
+  background-image: url('https://stage.rake.com/static/media/HomePageBannerBackEffectIMAGE.b27cbeb59c5e12c188b5.svg');
+  content: '';
+  height: 224px;
+  position: absolute;
+  right: -2px;
+  width: 378px;
+  background-size: cover;
+  z-index: 1;
+}
+
+.casino-spots-btn:hover img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(4%) saturate(165%)
+    hue-rotate(148deg) brightness(119%) contrast(100%);
+}
+.casino-spots-btn-active img {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(4%) saturate(165%)
+    hue-rotate(148deg) brightness(119%) contrast(100%);
+}
+.see-more-wrap {
+  background: linear-gradient(180deg, #04141e 15%, rgba(4, 20, 30, 0));
+  bottom: 0;
+  height: 250px;
+  pointer-events: none;
+  position: absolute;
+  transform: rotate(180deg);
+  width: 100%;
+}
+.see-less-wrap {
+  padding: 20px;
+  gap: 24px;
+  display: flex;
+  height: 84px;
+}
+.level-range {
+  max-width: calc(100% - 110px);
+}
+@media screen and (max-width: 1280px) {
+  .home-swipe::after {
+    content: '';
+    background-image: url('https://stage.rake.com/static/media/HomePageBannerBackEffectIMAGEMobileView.15e72166cef93111e4bc.svg');
+    bottom: 0;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 912px) {
+  .home-table-main .home-table-row td:nth-child(3),
+  td:nth-child(2) {
+    display: none;
+  }
+  .home-table-main .home-header-row th:nth-child(3),
+  th:nth-child(2) {
+    display: none;
+  }
+}

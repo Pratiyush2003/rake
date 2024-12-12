@@ -1,0 +1,25 @@
+{
+  "My_Bets": "My Bets",
+  "All_Bets": "All Bets",
+  "High_Rollers": "High Rollers",
+  "Game_": "Gra",
+  "User_": "Użytkownik",
+  "Time_": "Czas",
+  "Bet_amount": "Zakład Kwota",
+  "Multiplier_": "MNOŻNIK",
+  "Payout_": "WYPŁATA",
+  "Casino_": "Kasyno",
+  "Sport_": "Sport",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "Zakład",
+  "Placed_by": "Umieszczony przez",
+  "On_date_at_time": "w dniu {{ date }} o {{ time }}",
+  "Winner_": "Zwycięzca",
+  "Total_Odds": "Łącznie szanse",
+  "Total_Bet": "Łącznie zakłady",
+  "Est_Payout": "Szac. Wypłata",
+  "Play_game": "GRAJ W {{ game }}",
+  "Hidden_": "Ukryty"
+}

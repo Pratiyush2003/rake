@@ -1,0 +1,13 @@
+{
+  "Login_": "CONNEXION",
+  "Username_": "Adresse e-mail",
+  "Password_": "Mot de passe",
+  "Continue_social_": "Ou continuez avec",
+  "Cancel_": "ANNULER",
+  "Not_account_": "Vous n'avez pas de compte ? <1>S'inscrire</1>",
+  "Forgot_password_": "Mot de passe oublié ? <1>Récupérer l'accès</1>",
+  "Error_": "Entered login and/or password is incorrect. \n Please check and try one more time.",
+
+  "Username_tooltip_": "Letters, digits, and special characters, such as ‘-’, ’_’, ‘.’ are allowed.",
+  "Password_tooltip_": "- It must be not less than 8 characters; \n - It must include at least one upper and one lower case letters; \n - It must include a digit (0123456789) and a special character (!@#$%^&*_+=)."
+}

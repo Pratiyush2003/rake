@@ -1,0 +1,42 @@
+{
+  "Referral_system_": "Referral system",
+
+  "Overview_": "Overview",
+  "Comission_": "Comission",
+  "Referred_users_": "Referred users",
+  "Referred_links_": "Referred links",
+
+  "We_are_excited_": "We are excited that you are interested in becoming a Rake.com partner. Welcome to our referral system.",
+  "Rake_com_offers_": "Rake.com offers its users an affiliate program. Recommend our casino and earn money! For every user who signs up, plays and enjoys Rake.com, you will earn an affiliate commission based on their activity. Begin to earning by creating a referral campaign:",
+  "Referral_campaign_": "Referral campaign",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "Revenue model",
+  "All_of_our_games_": "All of our games have a different house edge. \nThe commission is derived by the following formula:",
+  "Casino_": "Casino",
+  "Casino_formula_": "EDGE AS DECIMAL * WAGERED * COMMISSION RATE / 2",
+  "All_sports_bets_": "All sports bets are applied at a 3% theoretical house edge. \nThe commission is derived by the following formula:",
+  "Sportsbook_": "Sportsbook",
+  "Sportsbook_formula_": "(0.03 * Wagered / 2) * Commission rate",
+
+  "Available_": "Available",
+  "Commission_": "Commission",
+  "Withdrawn_": "Withdrawn",
+  "Withdraw_all_": "Withdraw all",
+
+  "Username_": "Username",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "You don't have referrals",
+  "Success_": "Success",
+  "create_referral_code_": "Create",
+  "placeholder_input_referral_code_": "Create your referral code...",
+
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "the affiliation code is invalid"
+}

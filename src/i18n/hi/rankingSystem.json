@@ -1,0 +1,14 @@
+{
+  "Ranking_system": "रैंकिंग सिस्टम",
+  "Progress_": "प्रगति",
+  "Rewards_": "इनाम",
+  "Your_rank_progress": "आपकी रैंक की प्रगति",
+  "Your_wagered_amount": "आपकी दाँव की राशि",
+  "Your_progress_in": "आपकी प्रगति हमारे कैसीनो और स्पोर्ट्सबुक, दोनों पर आपके\nदाँव के माध्यम से जमा की गई कुल राशि है।\nएक टियर से दूसरे टियर पर आगे बढ़ने से आपको बड़े इनाम और फ़ायदे मिलते हैं।",
+  "All_bets": "स्पोर्ट्सबुक पर लगे सभी दाँव में प्रगति की दर 3x\n(तीन गुणा) तेज़ होती है।\nरद्द की गई बेट शामिल नहीं की जाती हैं।",
+  "Rank_tier": "रैंक\nटियर",
+  "Wager_amount": "दाँव की\nराशि",
+  "Deposit_bonus": "जमा\nबोनस",
+  "Withdrawal_commission": "कमीशन के लिए\nनिकाली जाने वाली राशि",
+  "In_order_to_move": "In order to move to the next level and get the\nnext rank, you need to have a wagered amount\nmore than indicated in the \"Wager Amount\"."
+}

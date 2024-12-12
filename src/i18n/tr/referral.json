@@ -1,0 +1,41 @@
+{
+  "Referral_system_": "YÖNLENDİRME SİSTEMİ",
+
+  "Overview_": "Genel görüş",
+  "Comission_": "Komisyon",
+  "Referred_users_": "Tavsiye edilen kullanıcılar",
+  "Referred_links_": "Yönlendirilen bağlantılar",
+
+  "We_are_excited_": "Rake.com ortağı olmakla ilgilendiğiniz için büyük bir heyecan duyuyoruz. Tavsiye sistemimize hoş geldiniz.",
+  "Rake_com_offers_": "Rake.com, kullanıcılarına bir ortaklık programı sunar. Kumarhanemizi önerin ve para kazanın! Rake.com'a kaydolan, oynayan ve eğlenen her kullanıcı için etkinliklerine göre bir ortaklık komisyonu kazanacaksınız. Bir tavsiye kampanyası oluşturarak kazanmaya başlayın:",
+  "Referral_campaign_": "TAVSİYE KAMPANYASI",
+  "Rake_referral_link_": "Rake referral link",
+  "Rake_referral_code_": "Rake referral code",
+  "Revenue_model_": "GELİR MODELİ",
+  "All_of_our_games_": "Tüm oyunlarımızda farklı bir kasa avantajı var.\nKomisyon aşağıdaki formülle elde edilir:",
+  "Casino_": "Kumarhane",
+  "Casino_formula_": "ONDALIK OLARAK AVANTAJ* OYNANAN BAHİS * KOMİSYON ORANI / 2",
+  "All_sports_bets_": "Tüm spor bahisleri %3 teorik kasa avantajı ile uygulanır.\nKomisyon aşağıdaki formülle elde edilir:",
+  "Sportsbook_": "Bahis Merkezi",
+  "Sportsbook_formula_": "(0,03 * BAHİSLİ / 2) * KOMİSYON ORANI",
+
+  "Available_": "Mevcut",
+  "Commission_": "KOMİSYON",
+  "Withdrawn_": "ÇEKİLDİ",
+  "Withdraw_all_": "Tüm parayı çek",
+
+  "Username_": "Kullanıcı adı",
+  "Registered_": "Registered",
+  "Total_deposits_": "Total Deposits",
+  "Last_deposit_": "Last Deposit",
+  "Wagered_": "Wagered",
+
+  "You_dont_have_referrals_": "Yönlendirmeleriniz yok",
+  "Success_": "Success",
+  "create_referral_code_": "Yaratmak",
+  "placeholder_input_referral_code_": "Referans kodunuzu oluşturun",
+  "Rake_referral_google_link_": "Rake referral link for Google ",
+  "Rake_referral_facebook_link_": "Rake referral link for Facebook ",
+  "Rake_referral_twitch_link_": "Rake referral link for Twitch",
+  "Affiliation_code_is_invalid_": "üyelik kodu geçersiz"
+}

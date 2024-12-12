@@ -1,0 +1,9 @@
+{
+  "Join_": "가입하기",
+  "Already_have_an_account_": "이미 계정이 있으신가요? <1>로그인</1>",
+  "Sign_up_with_email_": "이메일로 가입",
+  "Sign_up_with_google_": "구글 계정으로 가입하기",
+  "Sign_up_with_facebook_": "페이스북 계정으로 가입하기",
+  "Sign_up_with_twitch_": "트위치 계정으로 가입하기",
+  "Sign_up_with_line_": "라인 계정으로 가입하기"
+}

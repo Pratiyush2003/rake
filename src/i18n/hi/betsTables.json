@@ -1,0 +1,25 @@
+{
+  "My_Bets": "मेरी शर्त",
+  "All_Bets": "सभी दांव",
+  "High_Rollers": "ऊंचे रोलर्स",
+  "Game_": "गेम",
+  "User_": "यूज़र",
+  "Time_": "समय",
+  "Bet_amount": "बेट राशि",
+  "Multiplier_": "मल्टीप्लायर",
+  "Payout_": "भुगतान",
+  "Casino_": "कैसीनो",
+  "Sport_": "खेल",
+  "Odds_": "Odds",
+  "Event_": "Event",
+
+  "Bet_": "बेट",
+  "Placed_by": "द्वारा लगाई गई",
+  "On_date_at_time": "{{ date }} को दोपहर {{ time }} बजे",
+  "Winner_": "विजेता",
+  "Total_Odds": "कुल ऑड्स",
+  "Total_Bet": "कुल बेट",
+  "Est_Payout": "अनुमानित भुगतान",
+  "Play_game": "{{ game }} खेलें",
+  "Hidden_": "छिपी हुई"
+}

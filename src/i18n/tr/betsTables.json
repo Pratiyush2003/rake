@@ -1,0 +1,25 @@
+{
+  "My_Bets": "Benim Bahislerim",
+  "All_Bets": "Tüm Bahisler",
+  "High_Rollers": "Yüksek Bahisçiler",
+  "Game_": "OYUN",
+  "User_": "KULLANICI",
+  "Time_": "ZAMAN",
+  "Bet_amount": "BAHİS TUTARI",
+  "Multiplier_": "ÇARPAN",
+  "Payout_": "ÖDEME",
+  "Casino_": "Kumarhane",
+  "Sport_": "Spor",
+  "Odds_": "Oranlar",
+  "Event_": "Etkinlik",
+
+  "Bet_": "Bahis",
+  "Placed_by": "Yapan:",
+  "On_date_at_time": "{{ date }} tarihinde {{ time }}'de",
+  "Winner_": "Kazanan",
+  "Total_Odds": "Toplam Oran",
+  "Total_Bet": "Toplam Bahis",
+  "Est_Payout": "Tahmini Ödeme",
+  "Play_game": "{{ game }} OYNA",
+  "Hidden_": "Gizli"
+}

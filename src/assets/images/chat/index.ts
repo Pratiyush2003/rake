@@ -1,0 +1,9 @@
+export { default as CloseIcon } from './CloseIcon.svg';
+export { default as RespectfulIcon } from './RespectfulIcon.svg';
+export { default as RightDownloadIcon } from './RightDownloadIcon.svg';
+export { default as SportIcon } from './SportIcon.svg';
+export { default as RakeRumbleIcon } from './RakeRumbleIcon.svg';
+export { default as ActiveGifIcon } from './ActiveGifIcon.svg';
+export { default as SmileFaceIcon } from './SmileFace.svg';
+export { default as CloseIconModal } from './CloseIconModal.svg';
+export { default as UpArrowIcon } from './Uparrow.svg';

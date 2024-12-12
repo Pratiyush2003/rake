@@ -1,0 +1,28 @@
+{
+  "Date_of_birth_": "Data de nascimento",
+
+  "Day_": "Dia",
+  "Month_": "Mês",
+  "Year_": "Ano",
+
+  "January_": "Janeiro",
+  "February_": "Fevereiro",
+  "March_": "Março",
+  "April_": "Abril",
+  "May_": "Maio",
+  "June_": "Junho",
+  "July_": "Julho",
+  "August_": "Agosto",
+  "September_": "Setembro",
+  "October_": "Outubro",
+  "November_": "Novembro",
+  "December_": "Dezembro",
+
+  "Monday_": "Segunda-feira",
+  "Tuesday_": "Terça-feira",
+  "Wednesday_": "Quarta-feira",
+  "Thursday_": "Quinta-feira",
+  "Friday_": "Sexta-feira",
+  "Saturday_": "Sábado",
+  "Sunday_": "Domingo"
+}

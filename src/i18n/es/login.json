@@ -1,0 +1,13 @@
+{
+  "Login_": "INICIAR SESIÓN",
+  "Username_": "Corréo Eletrónico",
+  "Password_": "Contraseña",
+  "Continue_social_": "O continuar con",
+  "Cancel_": "CANCELAR",
+  "Not_account_": "¿No tienes una cuenta? <1>Regístrate</1>",
+  "Forgot_password_": "¿Has olvidado tu contraseña? <1>Recupera el acceso</1>",
+  "Error_": "El nombre de usuario y/o la contraseña ingresados son incorrectos.\n Compruébalo e inténtalo una vez más.",
+
+  "Username_tooltip_": "Se permiten letras, dígitos y caracteres especiales, como ‘-’, ’_’, ‘.’",
+  "Password_tooltip_": "- Debe tener no menos de 8 caracteres; \n - Debe incluir al menos una letra mayúscula y una minúscula; \n - Debe incluir un dígito (0123456789) y un carácter especial (!@#$%^&*_+=)."
+}

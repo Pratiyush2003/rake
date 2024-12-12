@@ -1,0 +1,53 @@
+{
+  "Setting_title_": "Cài đặt",
+
+  "General_": "Chung",
+  "Security_": "Bảo mật",
+  "Preferences_": "Cấu hình",
+  "Sessions_": "Sessions",
+  "Black_list_": "Black List",
+
+  "General_title_": "Tài khoản của tôi",
+  "General_username_": "Tên người dùng",
+  "General_login_": "Đăng nhập",
+  "General_email_": "Email",
+
+  "Password_": "Mật khẩu",
+  "SAVE_": "Lưu lại",
+  "Old_Password": "Mật khẩu cũ",
+  "New_Password": "Mật khẩu mới",
+  "Confirm_New_Password": "Xác nhận mật khẩu mới",
+
+  "Two_Factor_": "Hai yếu tố",
+  "To_keep_your_account_extra_secure_": "Để giữ cho tài khoản của bạn an toàn hơn, hãy bật xác thực hai yếu tố.",
+  "Open_the_authenticator_": "Mở trình xác thực, nhấn vào biểu tượng \"+\" và sao chép mã này vào ứng dụng xác thực của bạn",
+  "Or_scan_the_QR_": "Hoặc quét mã QR bằng điện thoại hoặc máy tính bảng của bạn",
+  "Two_Factor_Code_": "Two Factor Code",
+  "Enable_": "Cho phép",
+  "Disable_": "DISABLE",
+  "Dont_let_anyone_see_this_": "Đừng để ai bắt gặp! Giữ mã bí mật.",
+  "You_may_need_it_if_": "Bạn có thể cần nó nếu bạn thay đổi hoặc bị mất điện thoại của bạn.",
+
+  "Privacy_title_": "Bảo mật",
+  "Privacy_description_": "Quyền riêng tư của người dùng là một trong những vấn đề quan trọng nhất của Rake.com! Những cài đặt này sẽ bảo vệ bạn khỏi những ảnh hưởng tiêu cực từ bên ngoài.",
+  "Privacy_statistic_title_": "Ẩn tất cả số liệu thống kê của bạn",
+  "Privacy_statistic_description_": "Những người dùng khác sẽ không thể xem số liệu thống kê thắng, thua và đặt cược của bạn",
+  "Privacy_button_": "Lưu lại",
+
+  "Sessions_title_": "Phiên giao dịch",
+  "Sessions_is_empty": "Phiên trống",
+  "Sessions_table_browser_": "Browser",
+  "Sessions_table_location_": "Location",
+  "Sessions_table_ip_address_": "IP Address",
+  "Sessions_table_last_used_": "Last Used",
+  "Sessions_table_action_": "Action",
+  "Sessions_table_close_": "Close",
+  "Sessions_table_last_used_ago_": "{{ date, ago }}",
+
+  "Blacklist_": "Danh sách đen",
+  "Blacklist_is_empty": "Danh sách đen trống",
+  "Remove_from_the_Black_List": "Remove from the Black List",
+  "Remove_": "Remove",
+  "USER_": "USER",
+  "ACTION_": "ACTION"
+}

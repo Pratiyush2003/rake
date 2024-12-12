@@ -1,0 +1,42 @@
+{
+  "Username_required_": "El nombre de usuario es obligatorio",
+  "Username_incorrect_": "Formato de nombre de usuario incorrecto",
+  "Username_already_": "Este nombre de usuario ya existe. ¡Por favor, inténtalo de nuevo!",
+  "Username_self_send_": "No puedes enviártelo a ti mismo",
+
+  "Try_again_": "Error interno, por favor inténtelo de nuevo más tarde",
+  "Username_min_length_": "Por favor, ingrese el nombre de visualización con un mínimo de 5 caracteres",
+  "Username_max_length_": "Por favor, ingrese el nombre de visualización con un máximo de 256 caracteres",
+  "Username_incorrect_format_": "Por favor, solo se permiten letras, dígitos y caracteres especiales como '-', '.' y '_'",
+  "Password_incorrect_format": "- Debe incluir al menos una letra mayúscula y una minúscula; - Debe incluir un dígito (0123456789) y un carácter especial (!@#$%^&*+=).",
+  "Wrong_code_length": "Por favor, ingrese el código con un mínimo de 5 caracteres",
+
+  "Password_required_": "La contraseña es obligatoria",
+  "Password_min_": "La contraseña debe tener un mínimo de 8 caracteres",
+  "Password_incorrect_": "Formato de contraseña incorrecto",
+  "Entered_login_password_is_incorrect": "El usuario y/o la contraseña ingresados son incorrectos.",
+  "Please_check_and_try_one_more_time": "Por favor, comprueba y vuelve a intentarlo.",
+  "Passwords_do_not_match_": "Las contraseñas no coinciden",
+  "Passwords_match_": "las contraseñas coinciden",
+
+  "Birthday_required_": "La fecha de nacimiento es obligatoria",
+  "Birthday_incorrect_": "Debes tener al menos 18 años",
+
+  "Email_required_": "El correo electrónico es obligatorio",
+  "Email_incorrect_": "Correo electrónico incorrecto",
+  "Email_already_": "¡Este correo electrónico ya está ocupado! Por favor, usa el formulario de recuperación de contraseña o introduce un correo electrónico diferente.",
+
+  "Terms_required_": "Los términos son obligatorios",
+
+  "Referral_code_": "¡El código no es válido!",
+
+  "Wrong_code_": "Código de verificación incorrecto",
+  "Affiliation_code_is_invalid_": "el código de afiliación no es válido",
+  "No_such_email_": "No hay ningún correo electrónico registrado. Por favor, comprueba y vuelve a intentarlo.",
+
+  "Amount_required_": "El importe es obligatorio",
+  "Amount_insufficient_": "Fondos insuficientes",
+  "Buy_coin_required_": "La compra de monedas es obligatoria",
+
+  "User_not_found_": "Usuario no encontrado"
+}
